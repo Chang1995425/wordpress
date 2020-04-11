@@ -1,0 +1,757 @@
+# Copyright (C) 2020 WPClever.net
+# This file is distributed under the same license as the WPC Product Bundles for WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPC Product Bundles for WooCommerce 4.0.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woo-product-bundle\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-03-24T01:37:05+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.2.0\n"
+"X-Domain: woo-product-bundle\n"
+
+#. Plugin Name of the plugin
+msgid "WPC Product Bundles for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wpclever.net/"
+msgstr ""
+
+#. Description of the plugin
+msgid "WPC Product Bundles is a plugin help you bundle a few products, offer them at a discount and watch the sales go up!"
+msgstr ""
+
+#. Author of the plugin
+msgid "WPClever.net"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpclever.net"
+msgstr ""
+
+#: index.php:71
+#: index.php:97
+#: index.php:1184
+#: index.php:1207
+msgid "Add to cart"
+msgstr ""
+
+#: index.php:77
+#: index.php:1190
+msgid "Select options"
+msgstr ""
+
+#: index.php:84
+#: index.php:1196
+msgid "Read more"
+msgstr ""
+
+#: index.php:691
+msgid "Once Every 5 Minutes"
+msgstr ""
+
+#: index.php:834
+#: index.php:845
+#: index.php:2238
+msgid "WPC Product Bundles"
+msgstr ""
+
+#: index.php:834
+msgid "Product Bundles"
+msgstr ""
+
+#: index.php:848
+msgid "Thank you for using our plugin! If you are satisfied, please reward it a full five-star %s rating."
+msgstr ""
+
+#: index.php:851
+msgid "Reviews"
+msgstr ""
+
+#: index.php:853
+msgid "Changelog"
+msgstr ""
+
+#: index.php:855
+msgid "Discussion"
+msgstr ""
+
+#: index.php:862
+msgid "How to use?"
+msgstr ""
+
+#: index.php:866
+#: index.php:1565
+msgid "Settings"
+msgstr ""
+
+#: index.php:870
+msgid "Tools"
+msgstr ""
+
+#: index.php:874
+#: index.php:1566
+msgid "Premium Version"
+msgstr ""
+
+#: index.php:882
+msgid "When creating the product, please choose product data is \"Smart Bundle\" then you can see the search field to start search and add products to the bundle."
+msgstr ""
+
+#: index.php:894
+msgid "General"
+msgstr ""
+
+#: index.php:898
+msgid "Price format"
+msgstr ""
+
+#: index.php:901
+msgid "From min price"
+msgstr ""
+
+#: index.php:902
+msgid "Min price only"
+msgstr ""
+
+#: index.php:903
+msgid "Min - max"
+msgstr ""
+
+#: index.php:904
+msgid "Regular and sale price"
+msgstr ""
+
+#: index.php:907
+msgid "Choose the price format for bundle on the shop page."
+msgstr ""
+
+#: index.php:913
+#: index.php:2004
+#: index.php:2027
+#: index.php:2336
+msgid "Bundled products"
+msgstr ""
+
+#: index.php:917
+#: index.php:1129
+msgid "Position"
+msgstr ""
+
+#: index.php:922
+#: index.php:1134
+msgid "Above the add to cart button"
+msgstr ""
+
+#: index.php:926
+#: index.php:1138
+msgid "Under the add to cart button"
+msgstr ""
+
+#: index.php:930
+msgid "Under the title"
+msgstr ""
+
+#: index.php:934
+msgid "Under the price"
+msgstr ""
+
+#: index.php:938
+msgid "Under the excerpt"
+msgstr ""
+
+#: index.php:942
+#: index.php:1142
+msgid "In a new tab"
+msgstr ""
+
+#: index.php:946
+#: index.php:1146
+msgid "No (hide it)"
+msgstr ""
+
+#: index.php:949
+msgid "Choose the position to show the bundled products list."
+msgstr ""
+
+#: index.php:954
+msgid "Variations selector"
+msgstr ""
+
+#: index.php:959
+msgid "Default"
+msgstr ""
+
+#: index.php:963
+msgid "Use WPC Variations Radio Buttons"
+msgstr ""
+
+#: index.php:972
+msgid "Show thumbnail"
+msgstr ""
+
+#: index.php:977
+#: index.php:992
+#: index.php:1007
+#: index.php:1066
+#: index.php:1084
+#: index.php:1247
+#: index.php:1284
+#: index.php:1318
+#: index.php:1349
+#: index.php:1364
+#: index.php:1380
+#: index.php:1396
+#: index.php:1412
+#: index.php:1433
+#: index.php:1450
+msgid "Yes"
+msgstr ""
+
+#: index.php:981
+#: index.php:996
+#: index.php:1011
+#: index.php:1030
+#: index.php:1053
+#: index.php:1070
+#: index.php:1092
+#: index.php:1221
+#: index.php:1251
+#: index.php:1288
+#: index.php:1307
+#: index.php:1322
+#: index.php:1353
+#: index.php:1368
+#: index.php:1384
+#: index.php:1400
+#: index.php:1416
+#: index.php:1437
+#: index.php:1454
+msgid "No"
+msgstr ""
+
+#: index.php:987
+msgid "Show quantity"
+msgstr ""
+
+#: index.php:1002
+msgid "Show short description"
+msgstr ""
+
+#: index.php:1017
+msgid "Show price"
+msgstr ""
+
+#: index.php:1022
+msgid "Price"
+msgstr ""
+
+#: index.php:1026
+msgid "Subtotal"
+msgstr ""
+
+#: index.php:1036
+msgid "Link to individual product"
+msgstr ""
+
+#: index.php:1041
+msgid "Yes, open in the same tab"
+msgstr ""
+
+#: index.php:1045
+msgid "Yes, open in the new tab"
+msgstr ""
+
+#: index.php:1049
+msgid "Yes, open quick view popup"
+msgstr ""
+
+#: index.php:1061
+msgid "Change image"
+msgstr ""
+
+#: index.php:1074
+msgid "Change the main product image when choosing the variation of bundled products."
+msgstr ""
+
+#: index.php:1079
+msgid "Change price"
+msgstr ""
+
+#: index.php:1088
+msgid "Yes, custom selector"
+msgstr ""
+
+#: index.php:1099
+msgid "Change the main product price when choosing the variation of bundled products. It uses JavaScript to change product price so it is very dependent on theme’s HTML. If it cannot find and update the product price, please contact us and we can help you find the right selector or adjust the JS file."
+msgstr ""
+
+#: index.php:1104
+msgid "Total text"
+msgstr ""
+
+#: index.php:1107
+msgid "Bundle price:"
+msgstr ""
+
+#: index.php:1111
+msgid "Saved text"
+msgstr ""
+
+#: index.php:1114
+#: index.php:1531
+msgid "(saved [d])"
+msgstr ""
+
+#: index.php:1116
+msgid "Use [d] to show the saved percentage or amount."
+msgstr ""
+
+#: index.php:1122
+#: index.php:2344
+msgid "Bundles"
+msgstr ""
+
+#: index.php:1125
+msgid "Settings for bundles on the bundled product page."
+msgstr ""
+
+#: index.php:1149
+msgid "Choose the position to show the bundles list."
+msgstr ""
+
+#: index.php:1155
+#: index.php:2532
+msgid "Above text"
+msgstr ""
+
+#: index.php:1164
+#: index.php:2541
+msgid "Under text"
+msgstr ""
+
+#: index.php:1173
+msgid "\"Add to Cart\" button labels"
+msgstr ""
+
+#: index.php:1176
+msgid "Leave blank if you want to use the default text and can be translated."
+msgstr ""
+
+#: index.php:1180
+msgid "Archive/shop page"
+msgstr ""
+
+#: index.php:1186
+msgid "For purchasable bundle."
+msgstr ""
+
+#: index.php:1192
+msgid "For purchasable bundle and has variable product(s)."
+msgstr ""
+
+#: index.php:1198
+msgid "For un-purchasable bundle."
+msgstr ""
+
+#: index.php:1203
+msgid "Single product page"
+msgstr ""
+
+#: index.php:1212
+msgid "Cart & Checkout"
+msgstr ""
+
+#: index.php:1216
+msgid "Coupon restrictions"
+msgstr ""
+
+#: index.php:1225
+msgid "Exclude bundles"
+msgstr ""
+
+#: index.php:1229
+msgid "Exclude bundled products"
+msgstr ""
+
+#: index.php:1233
+msgid "Exclude both bundles and bundled products"
+msgstr ""
+
+#: index.php:1237
+msgid "Choose products you want to exclude from coupons."
+msgstr ""
+
+#: index.php:1242
+msgid "Exclude un-purchasable products"
+msgstr ""
+
+#: index.php:1255
+msgid "Make the bundle still purchasable when one of the bundled products is un-purchasable. These bundled products are excluded from the orders."
+msgstr ""
+
+#: index.php:1260
+msgid "Cart contents count"
+msgstr ""
+
+#: index.php:1265
+msgid "Bundles only"
+msgstr ""
+
+#: index.php:1269
+msgid "Bundled products only"
+msgstr ""
+
+#: index.php:1273
+msgid "Both bundles and bundled products"
+msgstr ""
+
+#: index.php:1279
+msgid "Hide bundle name before bundled products"
+msgstr ""
+
+#: index.php:1294
+msgid "Hide bundled products on cart & checkout page"
+msgstr ""
+
+#: index.php:1299
+msgid "Yes, just show the main product"
+msgstr ""
+
+#: index.php:1303
+msgid "Yes, but show bundled product names under the main product"
+msgstr ""
+
+#: index.php:1313
+msgid "Hide bundled products on mini-cart"
+msgstr ""
+
+#: index.php:1326
+msgid "Hide bundled products, just show the main product on mini-cart."
+msgstr ""
+
+#: index.php:1332
+#: index.php:2393
+msgid "Search"
+msgstr ""
+
+#: index.php:1336
+msgid "Search limit"
+msgstr ""
+
+#: index.php:1344
+msgid "Search by SKU"
+msgstr ""
+
+#: index.php:1359
+msgid "Search by ID"
+msgstr ""
+
+#: index.php:1371
+msgid "Search by ID when only entered the numeric."
+msgstr ""
+
+#: index.php:1375
+msgid "Search exact"
+msgstr ""
+
+#: index.php:1387
+msgid "Match whole product title or content?"
+msgstr ""
+
+#: index.php:1391
+msgid "Search sentence"
+msgstr ""
+
+#: index.php:1403
+msgid "Do a phrase search?"
+msgstr ""
+
+#: index.php:1407
+msgid "Accept same products"
+msgstr ""
+
+#: index.php:1419
+msgid "If yes, a product can be added many times."
+msgstr ""
+
+#: index.php:1424
+msgid "Advance"
+msgstr ""
+
+#: index.php:1428
+#: index.php:1488
+msgid "Price sync"
+msgstr ""
+
+#: index.php:1440
+msgid "Enable this option to change the bundle price automatically when changing the price of the bundled product. You also can do it by manually on the Tools tab."
+msgstr ""
+
+#: index.php:1445
+msgid "Price update"
+msgstr ""
+
+#: index.php:1457
+msgid "Enable this option to show the update price tool in each product. Use this tool to update the price for all bundles contain the current product."
+msgstr ""
+
+#: index.php:1464
+msgid "Update Options"
+msgstr ""
+
+#: index.php:1477
+msgid "Product bundles"
+msgstr ""
+
+#: index.php:1482
+msgid "View all product bundles"
+msgstr ""
+
+#: index.php:1493
+msgid "Update price for all bundles"
+msgstr ""
+
+#: index.php:1496
+msgid "The bundle price will be updated every 5 minutes automatically, you can click to update immediately."
+msgstr ""
+
+#: index.php:1526
+msgid "Please select some product options before adding this bundle to the cart."
+msgstr ""
+
+#: index.php:1527
+msgid "Please choose at least one product before adding this bundle to the cart."
+msgstr ""
+
+#: index.php:1528
+msgid "Please choose at least [min] in the whole products before adding this bundle to the cart."
+msgstr ""
+
+#: index.php:1529
+msgid "Please choose maximum [max] in the whole products before adding this bundle to the cart."
+msgstr ""
+
+#: index.php:1582
+msgid "Premium support"
+msgstr ""
+
+#: index.php:1708
+msgid "One of the bundled products is unavailable."
+msgstr ""
+
+#: index.php:1709
+#: index.php:1716
+#: index.php:1723
+#: index.php:1730
+#: index.php:1737
+#: index.php:1747
+#: index.php:1755
+msgid "You cannot add this bundle to the cart."
+msgstr ""
+
+#: index.php:1715
+#: index.php:1722
+msgid "\"%s\" is un-purchasable."
+msgstr ""
+
+#: index.php:1729
+#: index.php:1746
+msgid "\"%s\" has not enough stock."
+msgstr ""
+
+#: index.php:1736
+msgid "You cannot add another \"%s\" to your cart."
+msgstr ""
+
+#: index.php:1754
+msgid "\"%s\" is protected and cannot be purchased."
+msgstr ""
+
+#: index.php:2121
+msgid "(bundled in %s)"
+msgstr ""
+
+#: index.php:2231
+msgid "No results found for \"%s\""
+msgstr ""
+
+#: index.php:2253
+msgid "Update the price of all bundles containing this product. The completion time for this process depends on the number of bundles you have in your store."
+msgstr ""
+
+#: index.php:2256
+msgid "Update Price"
+msgstr ""
+
+#: index.php:2260
+msgid "This tool is for updating the price of all bundles containing the modified product. It is invalid for a bundle."
+msgstr ""
+
+#: index.php:2263
+msgid "This box content just appears after you publish the product."
+msgstr ""
+
+#: index.php:2307
+#: index.php:2362
+msgid "Smart bundle"
+msgstr ""
+
+#: index.php:2314
+msgid "Bundled Products"
+msgstr ""
+
+#: index.php:2395
+msgid "settings"
+msgstr ""
+
+#: index.php:2400
+msgid "searching..."
+msgstr ""
+
+#: index.php:2402
+msgid "Type any keyword to search"
+msgstr ""
+
+#: index.php:2408
+msgid "Selected"
+msgstr ""
+
+#: index.php:2437
+msgid "Regular price"
+msgstr ""
+
+#: index.php:2443
+msgid "Fixed price"
+msgstr ""
+
+#: index.php:2447
+msgid "Disable auto calculate price."
+msgstr ""
+
+#: index.php:2447
+msgid "If checked, %s click here to set price %s by manually."
+msgstr ""
+
+#: index.php:2451
+msgid "Discount"
+msgstr ""
+
+#: index.php:2458
+msgid "% or amount"
+msgstr ""
+
+#: index.php:2464
+msgid "If you fill both, the amount will be used."
+msgstr ""
+
+#: index.php:2468
+msgid "Custom quantity"
+msgstr ""
+
+#: index.php:2472
+msgid "Buyer can change the quantity of bundled products."
+msgstr ""
+
+#: index.php:2476
+msgid "Limit of each item"
+msgstr ""
+
+#: index.php:2480
+msgid "Use default quantity as min?"
+msgstr ""
+
+#: index.php:2492
+msgid "Limit of whole items"
+msgstr ""
+
+#: index.php:2505
+msgid "Shipping fee"
+msgstr ""
+
+#: index.php:2508
+msgid "Apply to the whole bundle"
+msgstr ""
+
+#: index.php:2509
+msgid "Apply to each bundled product"
+msgstr ""
+
+#: index.php:2514
+msgid "Manage stock"
+msgstr ""
+
+#: index.php:2518
+msgid "Enable stock management at bundle level."
+msgstr ""
+
+#: index.php:2520
+msgid "By default, the bundle' stock was calculated automatically from bundled products. After enabling, please press \"Update\" then you can change the stock settings on the \"Inventory\" tab."
+msgstr ""
+
+#: index.php:2524
+msgid "Custom display price"
+msgstr ""
+
+#: index.php:2577
+msgid "Add"
+msgstr ""
+
+#: index.php:2579
+msgid "Remove"
+msgstr ""
+
+#: index.php:2584
+msgid "Default quantity"
+msgstr ""
+
+#: index.php:2796
+#: index.php:2838
+msgid "From"
+msgstr ""
+
+#: index.php:3064
+msgid "Choose"
+msgstr ""
+
+#: index.php:3070
+msgid "Clear"
+msgstr ""
+
+#: index.php:3353
+msgid "Bundle(s) low in stock"
+msgstr ""
+
+#: index.php:3358
+msgid "%s is low in stock."
+msgstr ""
+
+#: index.php:3361
+msgid "%1$s is low in stock. There are %2$d left."
+msgstr ""
+
+#: index.php:3382
+msgid "Bundle (%s)"
+msgstr ""
+
+#: index.php:3401
+msgid "Create a Smart bundle"
+msgstr ""
+
+#: index.php:3420
+msgid "Added %s product(s) to this bundle."
+msgstr ""
+
+#: index.php:3430
+msgid "Bundle(s) out of stock"
+msgstr ""
+
+#: index.php:3435
+#: index.php:3438
+msgid "%s is out of stock."
+msgstr ""

@@ -1,0 +1,2156 @@
+# Translation of Themes - Blossom Travel in Arabic
+# This file is distributed under the same license as the Themes - Blossom Travel package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-29 10:28:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ar\n"
+"Project-Id-Version: Themes - Blossom Travel\n"
+
+#. Description of the theme
+msgid "Blossom Travel is a free WordPress theme which allows you to create various types of feminine blogs such as travel blog, personal blog, fashion blog, beauty blog, and many more. You can create a professional and chic friendly travel and other feminine blog with this theme without writing a single line of code. It is a fully responsive theme which will display your content accurately on every device. This theme features a creative design combined with eye-catching color combination which will make your reader come back again and again on your blog. Blossom Travel features multiple customization options to allow you to customize your website as per your desire via the WordPress Customizer. This theme features a great design on the front-end and easy to use content management system on the back-end. This theme features dedicated sections for Instagram and Email Subscription to help you grow your Instagram followers and Email list. Furthermore, it is a speed optimized theme which provides a great user experience to your visitors while browsing your website. The ultra SEO optimized & Schema.org ready codes help your website rank at the top in Google and other search engine results. This theme comes with a step-by-step extensive documentation guide to help you build your blog from scratch. Also, it is backed up by a quick, responsive and friendly support team to help you solve your theme related queries in no time. Check theme details at https://blossomthemes.com/downloads/blossom-travel-free-wordpress-theme/, demo at https://demo.blossomthemes.com/blossom-travel/, read the documentation at https://docs.blossomthemes.com/docs/blossom-travel/, and get support at https://blossomthemes.com/support-ticket/."
+msgstr ""
+"بلوسوم السفر قالب مجاني في الوورد برس يتيح لك بإنشاء أنواع مختلفة من المدونات ذات الطابع الأنثوي مثل مدونة للسفر، مدونة شخصية، مدونة موضة، مدونة تُعنى بالجمال، و غيرها الكثير. مع هذا القالب بإمكانك إنشاء مدونة للسفر أو غيرها من المدونات الأنثوية بواجهة ودودة، أنيقة و احترافية دون عناء كتابة و لو سطر واحد من الترميز. كذلك فإن هذا القالب يتوافق مع جميع الأجهزة المحمولة ليسهل عرضه فيها بكل دقة. يتميز قالب بلوسوم السفر بتصميم إبداعي و ألوان جذابة تجعل زواره يعودون إليه مرات عدة. ما يميز هذا القالب كذلك الخيارات العديدة المتاحة للتخصيص مما يسمح لك بإظهاره بالشكل الذي ترغب به و ذلك باستخدام مُخصص الوورد برس. كذلك فإن هذا القالب يتميز بتصميم رائع للواجهة و نظام يسهل إدارة محتوى الموقع لكل من يديره. في هذا القالب ستجد أقساماً مخصصة للانستغرام و نشرة القائمة البريدية تساعد في زيادة المتابعين و المشتركين في الموقع. من ناحية أخرى فإن قالب بلوسوم السفر مزود بمحسن السرعة الذي يسمح لزوار الموقع بتصفحه بكل سهولة و سرعة. و لأنه مزود بمحسن سرعة المحرك و ترميزات معدة مسبقاً (Schema.org) فإن ذلك سيساعدك في رفع تصنيف موقعك من قِبل جوجل و محركات البحث الأخرى. يأتي مع هذا القالب وثائق توضح لك خطوة بخطوة طريقة إنشاء موقع من الصفر. كذلك فإن هذا القالب مدعوم بفريق دعم ودود يتجاوب سريعاً لحل و إجابة أي استفسارات متعلقة بالقالب في وقت قصير. لتفاصيل أكثر عن القالب، تفضلوا بزيارة: https://blossomthemes.com/downloads/blossom-travel-free-wordpress-theme/\n"
+"لمشاهدة العرض التوضيحي: https://demo.blossomthemes.com/blossom-travel/\n"
+"للاطلاع و قراءة وثائق القالب: https://docs.blossomthemes.com/docs/blossom-travel/\n"
+"و للحصول على الدعم: https://blossomthemes.com/support-ticket/."
+
+#. Theme Name of the theme
+msgid "Blossom Travel"
+msgstr "بلوسوم السفر"
+
+#: inc/getting-started/tabs/support-panel.php:14
+#: inc/getting-started/tabs/link-panel.php:11
+msgid "With the Pro version, you can change the look and feel of your website in seconds. In just a few clicks, you can change the color and typography of your website. The premium version lets you have better control over the theme as it comes with more customization options. Not just that, the theme also has more sections and layout options as compared to the free version. The Pro version is multi-language compatible as well."
+msgstr "باستخدامك للإصدار الاحترافي، بإمكانك تغيير شكل و مظهر موقعك خلال وقت قصير. بنقرات بسيطة يمكنك تغيير اللون و خط الكتابة و غيرها من التخصيصات في موقعك. الإصدار الممتاز يسمح لك بالتحكم بشكل أفضل بالقالب و ذلك لاحتوائه على خيارات تخصيصية أكثر. ليس ذلك فحسب، بل و إن القالب يتميز بأقسام أكثر و خيارات تصميمية أكثر تنوعاً مقارنة بالإصدار المجاني. كذلك فإن الإصدار الاحترافي متوافق مع عدة لغات."
+
+#: inc/getting-started/tabs/useful-plugins-panel.php:17
+msgid "HubSpot All-In-One Marketing - Forms, Popups, Live Chat"
+msgstr "HubSpot  للحلول التسويقية و الحملات الترويجية - استمارات، إعلانات منبثقة، محادثة مباشرة"
+
+#: inc/getting-started/tabs/useful-plugins-panel.php:12
+msgid "Below is a list of useful plugins that will help you get the most out of Blossom Travel."
+msgstr "الآتية ذكرها عبارة عن إضافات مفيدة ستساعدك على الاستفادة القصوى من قالب بلوسوم السفر."
+
+#: inc/getting-started/tabs/useful-plugins-panel.php:10
+#: inc/getting-started/getting-started.php:145
+msgid "Useful Plugins"
+msgstr "إضافات مفيدة"
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr "خانة التعليقات مغلقة."
+
+#. translators: 1: comment count number.
+#: comments.php:32
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s لا يوجد تعليقات"
+msgstr[1] "%1$s تعليق"
+msgstr[2] "%1$s تعليقان"
+msgstr[3] "%1$s تعليقات "
+msgstr[4] "%1$s تعليقات "
+msgstr[5] "%1$s تعليقات "
+
+#: inc/template-functions.php:602
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: inc/template-functions.php:602
+msgid " Powered by %s"
+msgstr "مدعوم من قِبل %s"
+
+#: inc/template-functions.php:600
+msgid " Blossom Themes"
+msgstr "قوالب بلوسوم"
+
+#: inc/template-functions.php:599
+msgid " Blossom Travel | Developed By "
+msgstr "بلوسوم السفر | مُطور من قِبل"
+
+#: inc/template-functions.php:482
+msgid "Page"
+msgstr "صفحة"
+
+#: inc/template-functions.php:458
+msgid "Next Post"
+msgstr "المقالة التالية"
+
+#: inc/template-functions.php:439
+msgid "Previous Post"
+msgstr "المقالة السابقة"
+
+#: inc/template-functions.php:434
+msgid "Post Navigation"
+msgstr "تصفّح المقالات"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-functions.php:379
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "تعديل <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-functions.php:339
+msgid "Pages:"
+msgstr "صفحات:"
+
+#: inc/template-functions.php:253
+msgid "%1$s Showing:  %2$s - %3$s of %4$s RESULTS %5$s"
+msgstr "%1$s إظهار: %2$s -  %3$s من %4$s نتائج %5$s"
+
+#: inc/template-functions.php:210
+msgid "The page you are looking for may have been moved, deleted, or possibly never existed."
+msgstr "إن الصفحة التي تبحث عنها قد تكون نُقلت، مُسحت، أو ربما لم تكن موجودة أصلاً  ."
+
+#: inc/template-functions.php:209
+msgid "Uh-Oh..."
+msgstr "تنبيه"
+
+#: inc/template-functions.php:186
+msgid "Search Results For"
+msgstr "نتائج البحث عن"
+
+#: inc/template-functions.php:89
+msgid "START NOW"
+msgstr "ابدأ الآن"
+
+#: inc/template-functions.php:88
+msgid "Start Your Journey Now"
+msgstr "ابدأ رحلتك الآن"
+
+#: inc/template-functions.php:39
+msgid "Skip to Content"
+msgstr "تجاوز إلى المحتوى"
+
+#: inc/widgets.php:74
+msgid "Add footer four widgets here."
+msgstr "أضف ودج تذييل 4 هنا "
+
+#: inc/widgets.php:72
+msgid "Footer Four"
+msgstr "تذييل 4"
+
+#: inc/widgets.php:69
+msgid "Add footer three widgets here."
+msgstr "أضف ودج تذييل 3 هنا. "
+
+#: inc/widgets.php:67
+msgid "Footer Three"
+msgstr "تذييل 3"
+
+#: inc/widgets.php:64
+msgid "Add footer two widgets here."
+msgstr "أضف ودج تذييل 2 هنا."
+
+#: inc/widgets.php:62
+msgid "Footer Two"
+msgstr "تذييل 2"
+
+#: inc/widgets.php:59
+msgid "Add footer one widgets here."
+msgstr "أضف ودج تذييل 1 هنا."
+
+#: inc/widgets.php:57
+msgid "Footer One"
+msgstr "تذييل 1"
+
+#: inc/widgets.php:54
+msgid "Add \"Blossom: Image Text\" widget for blog featured section."
+msgstr "أضف ودج \"بلوسوم: نص الصورة\" لقسم المقالة البارزة"
+
+#: inc/widgets.php:52
+msgid "Featured Blog Section"
+msgstr "قسم المدونة البارزة"
+
+#: inc/widgets.php:49
+msgid "Add \"Blossom: Recent Post\" widget for blog trending section."
+msgstr "أضف ودج \"بلوسوم: مقالة حديثة\" لقسم المقالة الأكثر قراءة"
+
+#: inc/widgets.php:47
+msgid "Trending Section"
+msgstr "الأكثر قراءة"
+
+#: inc/widgets.php:44
+msgid "Add \"BlossomThemes: Email Newsletter Widget\" for newsletter section."
+msgstr "أضف ودج \"قوالب بلوسوم: نشرة القائمة البريدية\" لقسم النشرة البريدية"
+
+#: inc/widgets.php:42
+msgid "Newsletter Section"
+msgstr "قسم النشرة البريدية"
+
+#: inc/widgets.php:39
+msgid "Add \"Blossom: Call To Action\" widget for Call to Action section."
+msgstr "أضف ودج \"بلوسوم: اتخاذ إجراء\" لقسم اتخاذ إجراء"
+
+#: inc/widgets.php:37
+msgid "Call To Action Section"
+msgstr "قسم اتخاذ إجراء"
+
+#: inc/widgets.php:34
+msgid "Add \"Custom HTML\" widget for map section."
+msgstr "أضف ودج \"تخصيص HTML\" لقسم الخريطة"
+
+#: inc/widgets.php:32
+msgid "Map Section"
+msgstr "قسم الخريطة"
+
+#: inc/widgets.php:29
+msgid "Add \"Blossom: Image Text\" widget for featured section. For featured section images, use same size images. If the images are of different sizes please regenerate those thumbnails."
+msgstr "أضف ودج \"بلوسوم: نص الصورة\" لقسم البارز. لصور قسم البارز، استخدم صوراً بنفس الحجم. إذا كانت الصور بأحجام مختلفة، يرجى تعديل حجم الصور."
+
+#: inc/widgets.php:27
+msgid "Featured Section"
+msgstr "قسم البارز"
+
+#: inc/widgets.php:24
+msgid "Add \"Blossom: Featured Page Widget\" for about section."
+msgstr "أضف ودج \"بلوسوم: الصفحة البارزة\" لقسم عن الموقع."
+
+#: inc/widgets.php:22
+msgid "About Section"
+msgstr "قسم عن الموقع"
+
+#: inc/widgets.php:19
+msgid "Add \"Blossom: Client Logo Widget\" for client logo section."
+msgstr "أضف ودج \"بلوسوم: شعار العملاء\" لقسم شعار العملاء"
+
+#: inc/widgets.php:17
+msgid "Client Logo Section"
+msgstr "قسم شعار العملاء"
+
+#: inc/widgets.php:12
+msgid "Sidebar"
+msgstr "الشريط الجانبي"
+
+#: inc/woocommerce-functions.php:41
+msgid "Sidebar displaying only in woocommerce pages."
+msgstr "الشريط الجانبي يُعرض فقط في صفحات الووكوميرس."
+
+#: inc/woocommerce-functions.php:39
+msgid "Shop Sidebar"
+msgstr "الشريط الجانبي للمتجر"
+
+#: inc/customizer/layout.php:136
+msgid "This is the general sidebar layout for whole site."
+msgstr "هذا التصميم العام للشريط الجانبي الخاص بالموقع بالكامل."
+
+#: inc/customizer/layout.php:135
+msgid "Default Sidebar Layout"
+msgstr "التصميم الأساسي للشريط الجانبي"
+
+#: inc/customizer/layout.php:109
+msgid "This is the general sidebar layout for posts & custom post. You can override the sidebar layout for individual post in respective post."
+msgstr "هذا هو التصميم للشريط الجانبي للمقالات و تخصيص المقالة. يمكنك تجاوز تصميم الشريط الجانبي للمقالة كل مقالة على حدة"
+
+#: inc/customizer/layout.php:108
+msgid "Post Sidebar Layout"
+msgstr "تصميم الشريط الجانبي للمقالة"
+
+#: inc/customizer/layout.php:82
+msgid "This is the general sidebar layout for pages. You can override the sidebar layout for individual page in respective page."
+msgstr "هذا هو التصميم للشريط الجانبي للصفحات. يمكنك تجاوز تصميم الشريط الجانبي لكل صفحة على حدة."
+
+#: inc/customizer/layout.php:81
+msgid "Page Sidebar Layout"
+msgstr "تصميم الشريط الجانبي للصفحة"
+
+#: inc/customizer/layout.php:60
+msgid "General Sidebar Layout"
+msgstr "التصميم العام للشريط الجانبي"
+
+#: inc/customizer/layout.php:47
+msgid "Choose the layout of the header for your site."
+msgstr "اختر تصميم الترويسة الخاص بالموقع"
+
+#: inc/customizer/layout.php:25 inc/customizer/layout.php:46
+msgid "Header Layout"
+msgstr "تصميم الترويسة"
+
+#: inc/customizer/layout.php:17
+msgid "Change different page layout from here."
+msgstr "تغيير تصميم مختلف للصفحة من هنا."
+
+#: inc/customizer/layout.php:16
+msgid "Layout Settings"
+msgstr "إعدادات التصميم"
+
+#: inc/customizer/home.php:196
+msgid "Please install and activate the recommended plugin %1$sBlossomThemes Social Feed%2$s. After that option related with this section will be visible."
+msgstr "يرجى تثبيت و تفعيل الإضافة الموصى بها %1$s مواجز التواصل الاجتماعي الخاص بقوالب بلوسوم %2$s . بعد ذلك ستظهر الخيارات المتعلقة بهذا القسم."
+
+#: inc/customizer/home.php:176
+msgid "You can change the setting of BlossomThemes Social Feed %1$sfrom here%2$s."
+msgstr "بإمكانك تغيير إعدادات مواجز التواصل الاجتماعي الخاص بقوالب بلوسوم %1$s من هنا %2$s"
+
+#: inc/customizer/home.php:150
+msgid "Section Title"
+msgstr "قسم العنوان"
+
+#: inc/customizer/home.php:131
+msgid "Enable to show Instagram Section"
+msgstr "تمكين لإظهار قسم الانستغرام"
+
+#: inc/customizer/home.php:130
+msgid "Enable Instagram Section"
+msgstr "تمكين قسم الانستغرام"
+
+#: inc/customizer/home.php:108
+msgid "Instagram Section"
+msgstr "قسم الانستغرام"
+
+#: inc/customizer/home.php:91
+msgid "View All Label"
+msgstr "عرض جميع الأصناف"
+
+#: inc/customizer/home.php:67
+msgid "Blog Title"
+msgstr "عنوان المقالة"
+
+#: inc/customizer/home.php:47
+msgid "Enable to show blog section."
+msgstr "تمكين لإظهار قسم المقالة"
+
+#: inc/customizer/home.php:46
+msgid "Enable Blog Section"
+msgstr "تمكين قسم المقالة"
+
+#: inc/customizer/home.php:26
+msgid "Blog Section"
+msgstr "قسم المقالة"
+
+#: inc/customizer/home.php:17
+msgid "Static Home Page settings."
+msgstr "إعدادات الصفحة الرئيسية الثابتة"
+
+#: inc/customizer/appearance.php:111
+msgid "Secondary font of the site."
+msgstr "الخط الثانوي للموقع"
+
+#: inc/customizer/appearance.php:110
+msgid "Secondary Font"
+msgstr "الخط الثانوي"
+
+#: inc/customizer/appearance.php:89
+msgid "Primary font of the site."
+msgstr "الخط الأساسي للموقع"
+
+#: inc/customizer/appearance.php:88
+msgid "Primary Font"
+msgstr "الخط الأساسي"
+
+#: inc/customizer/appearance.php:68
+msgid "Typography"
+msgstr "أنواع الخطوط"
+
+#: inc/customizer/appearance.php:57
+msgid "Secondary color of the theme."
+msgstr "اللون الثانوي للقالب"
+
+#: inc/customizer/appearance.php:56
+msgid "Secondary Color"
+msgstr "اللون الثانوي"
+
+#: inc/customizer/appearance.php:35
+msgid "Primary color of the theme."
+msgstr "اللون الأساسي للقالب"
+
+#: inc/customizer/appearance.php:34
+msgid "Primary Color"
+msgstr "اللون الأساسي"
+
+#: inc/customizer/appearance.php:16
+msgid "Customize Typography, Background Image & Color."
+msgstr "تخصيص أنواع الخطوط، صورة الخلفية و اللون"
+
+#: inc/customizer/appearance.php:13
+msgid "Appearance Settings"
+msgstr "إعدادات المظهر"
+
+#: inc/customizer/footer.php:32
+msgid "Footer Copyright Text"
+msgstr "نص تذييل حقوق النشر"
+
+#: inc/customizer/footer.php:13
+msgid "Footer Settings"
+msgstr "إعدادات التذييل"
+
+#: inc/customizer/info.php:129
+msgid "VIEW PRO THEME"
+msgstr "عرض قالب الإصدار الاحترافي"
+
+#: inc/customizer/info.php:127
+msgid "Pro Available"
+msgstr "الإصدار الاحترافي متوفر"
+
+#: inc/customizer/info.php:29
+msgid "Video Link: %1$sClick here.%2$s"
+msgstr "رابط الفيديو: %1$sانقر هنا.%2$s"
+
+#: inc/customizer/info.php:26
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr "رابط الوثائق: %1$sانقر هنا.%2$s"
+
+#: inc/customizer/info.php:24
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr "رابط العرض التوضيحي: %1$sانقر هنا.%2$s"
+
+#: inc/customizer/info.php:11
+msgid "Demo & Documentation"
+msgstr "العرض التوضيحي و الوثائق"
+
+#: inc/customizer/blog.php:22
+msgid "Post Page settings."
+msgstr "إعدادات صفحة المقالة"
+
+#: inc/customizer/home.php:16 inc/customizer/blog.php:12
+msgid "Front Page Settings"
+msgstr "إعدادات الصفحة الأمامية"
+
+#: inc/customizer/blog.php:10
+msgid "Blog Page Settings"
+msgstr "إعدادات صفحة المقالة"
+
+#: inc/customizer/slider.php:107
+msgid "Banner Link"
+msgstr "رابط البانر"
+
+#: inc/customizer/slider.php:83
+msgid "Banner Label"
+msgstr "صنف البانر"
+
+#: inc/customizer/slider.php:58
+msgid "Title"
+msgstr "العنوان"
+
+#: inc/customizer/slider.php:38
+msgid "Static/Video CTA Banner"
+msgstr "بانر اتخاذ إجراء ثابت/فيديو"
+
+#: inc/customizer/slider.php:37
+msgid "Disable Banner Section"
+msgstr "تعطيل قسم البانر"
+
+#: inc/customizer/slider.php:34
+msgid "Choose banner as static image/video."
+msgstr "اختر صورة/فيديو كبانر ثابت"
+
+#: inc/customizer/slider.php:33
+msgid "Banner Options"
+msgstr "خيارات البانر"
+
+#: inc/customizer/slider.php:9
+msgid "Banner Settings"
+msgstr "إعدادات البانر"
+
+#: inc/customizer/general.php:583
+msgid "Related Portfolio Title"
+msgstr "عنوان معرض الأعمال ذات الصلة "
+
+#: inc/customizer/general.php:564
+msgid "Enable to show Shop Page Description."
+msgstr "تمكين إظهار وصف صفحة المتجر"
+
+#: inc/customizer/general.php:563
+msgid "Shop Page Description"
+msgstr "وصف صفحة المتجر"
+
+#: inc/customizer/general.php:542
+msgid "Misc Settings"
+msgstr "إعدادات المتفرقات"
+
+#: inc/customizer/general.php:531
+msgid "Enable to show featured image in post detail (single post)."
+msgstr "تمكين إظهار الصورة البارزة في تفاصيل المقالة (المقالة المفردة)"
+
+#: inc/customizer/general.php:530
+msgid "Show Featured Image"
+msgstr "إظهار الصورة البارزة"
+
+#: inc/customizer/general.php:510
+msgid "Enable to hide posted date."
+msgstr "تمكين إخفاء تاريخ النشر"
+
+#: inc/customizer/general.php:509
+msgid "Hide Posted Date"
+msgstr "إخفاء تاريخ النشر"
+
+#: inc/customizer/general.php:489
+msgid "Enable to hide post author."
+msgstr "تمكين إخفاء كاتب المقالة"
+
+#: inc/customizer/general.php:488
+msgid "Hide Post Author"
+msgstr "إخفاء كاتب المقالة"
+
+#: inc/customizer/general.php:468
+msgid "Enable to hide category."
+msgstr "تمكين إخفاء التصنيف"
+
+#: inc/customizer/general.php:467
+msgid "Hide Category"
+msgstr "إخفاء التصنيف"
+
+#: inc/customizer/general.php:447
+msgid "Enable to hide Comments."
+msgstr "تمكين إخفاء التعليقات"
+
+#: inc/customizer/general.php:446
+msgid "Show Comments"
+msgstr "إظهار التعليقات"
+
+#: inc/customizer/general.php:421
+msgid "Related Posts Section Title"
+msgstr "عنوان قسم المقالات ذات الصلة"
+
+#: inc/customizer/general.php:401
+msgid "Enable to show related posts in single page."
+msgstr "تمكين إظهار المقالات ذات الصلة في صفحة مفردة"
+
+#: inc/customizer/general.php:400
+msgid "Show Related Posts"
+msgstr "إظهار المقالات ذات الصلة"
+
+#: inc/customizer/general.php:376
+msgid "Author Section Title"
+msgstr "عنوان قسم المؤلف"
+
+#: inc/customizer/general.php:356
+msgid "Enable to hide author section."
+msgstr "تمكين إخفاء قسم المؤلف"
+
+#: inc/customizer/general.php:355
+msgid "Hide Author Section"
+msgstr "إخفاء قسم المؤلف"
+
+#: inc/customizer/general.php:335
+msgid "%s These options affect your individual posts."
+msgstr "%s هذه الخيارات تؤثر على مقالاتك بشكل فردي"
+
+#: inc/customizer/general.php:311
+msgid "Read More Text"
+msgstr "اقرأ المزيد من النص"
+
+#: inc/customizer/general.php:286
+msgid "Automatically generated excerpt length (in words)."
+msgstr "إنشاء طول المقتطف بشكل آلي (بالكلمات)"
+
+#: inc/customizer/general.php:285
+msgid "Excerpt Length"
+msgstr "طول المقتطف"
+
+#: inc/customizer/general.php:265
+msgid "Enable to show excerpt or disable to show full post content."
+msgstr "تمكين عرض المقتطف أو تعطيل لعرض محتوى المقالة بشكل كامل"
+
+#: inc/customizer/general.php:264
+msgid "Enable Blog Excerpt"
+msgstr "تمكين مقتطف المدونة"
+
+#: inc/customizer/general.php:244
+msgid "Enable to hide prefix in archive page."
+msgstr "تمكين إخفاء البريفكس في صفحة الأرشيف"
+
+#: inc/customizer/general.php:243
+msgid "Hide Prefix in Archive Page"
+msgstr "إخفاء البريفكس في صفحة الأرشيف"
+
+#: inc/customizer/general.php:222
+msgid "Posts(Blog) & Pages Settings"
+msgstr "إعدادات مقالات (المدونة) و الصفحات"
+
+#: inc/customizer/general.php:212
+msgid "Breadcrumb Home Text"
+msgstr "نص الصفحة الرئيسية لأثر التعقب"
+
+#: inc/customizer/general.php:193
+msgid "Enable to show breadcrumb in pages."
+msgstr "تمكين إظهار أثر التعقب في الصفحات"
+
+#: inc/customizer/general.php:192
+msgid "Enable Breadcrumb"
+msgstr "تمكين أثر التعقب"
+
+#: inc/customizer/general.php:172
+msgid "Enable to show last updated post date on listing as well as in single post."
+msgstr "تمكين إظهار تاريخ آخر تحديث للمقالة في القائمة و كذلك في المقالة المفردة"
+
+#: inc/customizer/general.php:171
+msgid "Enable Last Update Post Date"
+msgstr "تمكين تاريخ آخر تحديث للمقالة"
+
+#: inc/customizer/general.php:150
+msgid "SEO Settings"
+msgstr "إعدادات تحسين محرك البحث"
+
+#: inc/customizer/general.php:134
+msgid "links"
+msgstr "روابط"
+
+#: inc/customizer/general.php:129
+msgid "Example: https://facebook.com"
+msgstr "مثال: https://facebook.com"
+
+#: inc/customizer/general.php:128
+msgid "Link"
+msgstr "رابط"
+
+#: inc/customizer/general.php:124
+msgid "Example: fab fa-facebook-f"
+msgstr "مثال: fab fa-facebook-f"
+
+#: inc/customizer/general.php:123
+msgid "Font Awesome Icon"
+msgstr "Font Awesome Icon"
+
+#: inc/customizer/general.php:119
+msgid "Social Links"
+msgstr "روابط وسائل التواصل الاجتماعي"
+
+#: inc/customizer/general.php:97
+msgid "Enable to show social links at header."
+msgstr "تمكين إظهار روابط وسائل التواصل الاجتماعي في الترويسة"
+
+#: inc/customizer/general.php:96
+msgid "Enable Social Links"
+msgstr "تمكين روابط وسائل التواصل الاجتماعي"
+
+#: inc/customizer/general.php:75
+msgid "Social Media Settings"
+msgstr "إعدادات وسائل التواصل الاجتماعي"
+
+#: inc/customizer/general.php:63
+msgid "Choose background Image of your choice. Recommended size for this image is 1903px by 445px. This effect on blog, archive & search pages."
+msgstr "اختر صورة الخلفية التي ترغب بها. الحجم الموصى به للصورة هو 1903px على 445px. هذا يؤثر على صفحات المقالة، الأرشيف و البحث."
+
+#: inc/customizer/general.php:62
+msgid "Background Image"
+msgstr "صورة الخلفية"
+
+#: inc/customizer/general.php:47
+msgid "Enable to show Search button in header."
+msgstr "تمكين إظهار زر البحث في الترويسة"
+
+#: inc/customizer/general.php:46
+msgid "Enable Header Search"
+msgstr "تمكين البحث في الترويسة"
+
+#: inc/customizer/general.php:25
+msgid "Header Settings"
+msgstr "إعدادات الترويسة"
+
+#: inc/customizer/general.php:17
+msgid "Customize Header, Social, Sharing, SEO, Post/Page, Newsletter, Performance and Miscellaneous settings."
+msgstr "تخصيص إعدادات الترويسة، وسائل التواصل الاجتماعي، تحسين محرك البحث،المقالة/الصفحة، النشرة البريدية، الأداء و المتفرقات "
+
+#: inc/customizer/general.php:16
+msgid "General Settings"
+msgstr "الإعدادات العامة"
+
+#: inc/tgmpa/recommended-plugins.php:81
+msgid "HTML5 Maps"
+msgstr "خرائط HTML5"
+
+#: inc/tgmpa/recommended-plugins.php:76
+#: inc/getting-started/tabs/useful-plugins-panel.php:19
+msgid "WooCommerce"
+msgstr "الووكوميرس"
+
+#: inc/tgmpa/recommended-plugins.php:71
+#: inc/getting-started/tabs/useful-plugins-panel.php:18
+msgid "Contact Form 7"
+msgstr "استمارة التواصل 7"
+
+#: inc/tgmpa/recommended-plugins.php:66
+msgid "Regenerate Thumbnails"
+msgstr "إعادة إنشاء الصورة المصغرة"
+
+#: inc/tgmpa/recommended-plugins.php:61
+msgid "BlossomThemes Social Feed"
+msgstr "مواجز التواصل الاجتماع لقوالب بلوسوم "
+
+#: inc/tgmpa/recommended-plugins.php:56
+msgid "BlossomThemes Email Newsletter"
+msgstr "قائمة النشرة البريدية لقوالب بلوسوم"
+
+#: inc/tgmpa/recommended-plugins.php:51
+msgid "BlossomThemes Toolkit"
+msgstr "صندوق الأدوات لقوالب بلوسوم"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "تثبيت الإضافة %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "جميع التثبيتات قد اكتملت."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "قد تم تثبيت %1$s بنجاح"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "ستبدأ عملية التثبيت. هذه العملية قد تستغرق بعض الوقت في بعض مواقع الاستضافة. يرجى الانتظار"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "تثبيت و تفعيل الإضافة %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "تم الانتهاء من جميع التثبيتات و التفعيلات"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "إخفاء التفاصيل"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "إظهار التفاصيل"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "تم تثبيت و تفعيل %1$s بنجاح"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "ستبدأ عملية التثبيت و التفعيل. هذه العملية قد تستغرق بعض الوقت في بعض مواقع الاستضافة. يرجى الانتظار"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "فشل تثبيت %1$s"
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "حدث خطأ ما أثناء تثبيت %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "جاري تحديث الإضافة %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "فشل تفعيل الإضافة"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "لا يوجد إضافات متاحة للتفعيل حالياً."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "لم يتم اختيار أي إضافة للتفعيل. لم يتم اتخاذ أي إجراء."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "لا يوجد إضافة متوفرة للتحديث حالياً."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "لا يوجد إضافة متوفرة للتثبيت حالياً."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "لم يتم اختيار تحديث أي إضافة. لم يتم اتخاذ أي إجراء ."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "لم يتم اختيار تثبيت أي إضافة. لم يتم اتخاذ أي إجراء."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "تحديث"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "تثبيت"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "رسالة تحديث من مصمم الإضافة:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "تفعيل %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "تحديث %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "تثبيت %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "الحالة"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "الإصدار"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "النوع"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "المصدر"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "الإضافة"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "لا يوجد إضافة للتثبيت، للتحديث أو للتفعيل"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "الإصدار المتوفر"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "الحد الأدنى للإصدار المطلوب: "
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "الإصدار المثبت:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "غير معروف "
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "للتفعيل <span class=\"count\">(%s)</span>"
+msgstr[1] "للتفعيل <span class=\"count\">(%s)</span>"
+msgstr[2] "للتفعيل <span class=\"count\">(%s)</span>"
+msgstr[3] "للتفعيل <span class=\"count\">(%s)</span>"
+msgstr[4] "للتفعيل <span class=\"count\">(%s)</span>"
+msgstr[5] "للتفعيل <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "لا يوجد تحديث متوفر <span class=\"count\">(%s)</span>"
+msgstr[1] "تحديث متوفر <span class=\"count\">(%s)</span>"
+msgstr[2] "تحديثان متوفران <span class=\"count\">(%s)</span>"
+msgstr[3] "تحديثات متوفرة <span class=\"count\">(%s)</span>"
+msgstr[4] "تحديثات متوفرة <span class=\"count\">(%s)</span>"
+msgstr[5] "تحديثات متوفرة <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "لا يوجد إضافة للتثبيت <span class=\"count\">(%s)</span>"
+msgstr[1] " يوجد إضافة للتثبيت <span class=\"count\">(%s)</span>"
+msgstr[2] "يوجد إضافتان للتثبيت <span class=\"count\">(%s)</span>"
+msgstr[3] "يوجد إضافات للتثبيت <span class=\"count\">(%s)</span>"
+msgstr[4] "يوجد إضافات للتثبيت <span class=\"count\">(%s)</span>"
+msgstr[5] "يوجد إضافات للتثبيت <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "الكل <span class=\"count\">(%s)</span>"
+msgstr[1] "الكل <span class=\"count\">(%s)</span>"
+msgstr[2] "الكل <span class=\"count\">(%s)</span>"
+msgstr[3] "الكل <span class=\"count\">(%s)</span>"
+msgstr[4] "الكل <span class=\"count\">(%s)</span>"
+msgstr[5] "الكل <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgmpa/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "تحديث موصى به"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "يتطلب تحديث"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "التحديث المطلوب غير متوفر"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "مُفعّل"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "مُثبت لكن غير مُفعّل"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "غير مُثبت"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "مجهز مسبقاً"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "مصدر خارجي"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "مستودع الوورد برس"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "موصى به"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "مطلوب"
+
+#. translators: %s: version number
+#: inc/tgmpa/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1121
+#: inc/tgmpa/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "و"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "مجموعة الإضافات عن بعد تحتوى على أكثر من ملف واحد، لكن هذه الملفات غير مجموعة في مجلد واحد."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "يرجى التواصل مع مزود الإضافة ليتم حزم الإضافات حسب إرشادات الوورد برس."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "مجموعة الإضافات عن بعد لا تحتوي على مجلد بالاسم اللطيف المرغوب و إعادة التسمية لم تنجح."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "تحديث مطلوب"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "الإضافة تتطلب تحديثاً لتتوافق مع القالب الخاص بك."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "للحصول على المساعدة، يرجى التواصل مع مدير الموقع "
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "يوجد إضافة أو أكثر مطلوبة أو موصى بها للتثبيت، للتحديث أو للتفعيل"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "تجاهل الملاحظة"
+
+#. translators: 1: dashboard link.
+#: inc/tgmpa/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "جميع الإضافات تم تثبيتها و تفعيلها بنجاح.  %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "لم يتم تفعيل الإضافة. يتطلب هذا القالب إصداراً أحدث من %s. يرجى تحديث الإضافة"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "لم يتم اتخاذ أي إجراء. الإضافة %1$s مُفعلة مسبقاً."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:388
+#: inc/tgmpa/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "تم تفعيل الإضافة التالية بنجاح"
+msgstr[1] "تم تفعيل الإضافة التالية بنجاح"
+msgstr[2] "تم تفعيل الإضافتين التاليتين بنجاح"
+msgstr[3] "تم تفعيل الإضافات التالية بنجاح"
+msgstr[4] "تم تفعيل الإضافات التالية بنجاح"
+msgstr[5] "تم تفعيل الإضافات التالية بنجاح"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:387
+#: inc/tgmpa/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "تم تفعيل الإضافة بنجاح"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:386
+#: inc/tgmpa/class-tgm-plugin-activation.php:827
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+#: inc/tgmpa/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "الرجوع إلى لوحة التحكم"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "الرجوع إلى مُثبت الإضافات المطلوبة"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "ابدأ بتفعيل الإضافة"
+msgstr[1] "ابدأ بتفعيل الإضافة"
+msgstr[2] "ابدأ بتفعيل الإضافتين"
+msgstr[3] "ابدأ بتفعيل الإضافات"
+msgstr[4] "ابدأ بتفعيل الإضافات"
+msgstr[5] "ابدأ بتفعيل الإضافات"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "ابدأ بتحديث الإضافة "
+msgstr[1] "ابدأ بتحديث الإضافة "
+msgstr[2] "ابدأ بتحديث الإضافتين"
+msgstr[3] "ابدأ بتحديث الإضافات"
+msgstr[4] "ابدأ بتحديث الإضافات"
+msgstr[5] "ابدأ بتحديث الإضافات"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "ابدأ بتثبيت الإضافة "
+msgstr[1] "ابدأ بتثبيت الإضافة "
+msgstr[2] "ابدأ بتثبيت الإضافتين"
+msgstr[3] "ابدأ بتثبيت الإضافات"
+msgstr[4] "ابدأ بتثبيت الإضافات"
+msgstr[5] "ابدأ بتثبيت الإضافات"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "الإضافة التالية الموصى بها غير مُفعلة حالياً %1$s."
+msgstr[1] "الإضافة التالية الموصى بها غير مُفعلة حالياً %1$s."
+msgstr[2] "الإضافتان التاليتان الموصى بهما غير مُفعلتين حالياً %1$s."
+msgstr[3] "الإضافات التالية الموصى بها غير مُفعلة حالياً %1$s."
+msgstr[4] "الإضافات التالية الموصى بها غير مُفعلة حالياً %1$s."
+msgstr[5] "الإضافات التالية الموصى بها غير مُفعلة حالياً %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "الإضافة المطلوبة التالية غير مُفعلة حالياً: %1$s."
+msgstr[1] "الإضافة المطلوبة التالية غير مُفعلة حالياً: %1$s."
+msgstr[2] "الإضافتان التاليتين المطلوبتان غير مُفعلتين حالياً: %1$s."
+msgstr[3] "الإضافات التالية المطلوبة غير مُفعلة حالياً: %1$s."
+msgstr[4] "الإضافات التالية المطلوبة غير مُفعلة حالياً: %1$s."
+msgstr[5] "الإضافات التالية المطلوبة غير مُفعلة حالياً: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "يوجد تحديث لـلإضافة التالية: %1$s."
+msgstr[1] "يوجد تحديث لـلإضافة التالية: %1$s."
+msgstr[2] "يوجد تحديثان لـلإضافتين التاليتين: %1$s."
+msgstr[3] "يوجد تحديثات لـلإضافات التالية: %1$s."
+msgstr[4] "يوجد تحديثات لـلإضافات التالية: %1$s."
+msgstr[5] "يوجد تحديثات لـلإضافات التالية: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "الإضافة التالية تتطلب تحديثاً للإصدار الأحدث لضمان أقصى توافق مع هذا القالب: %1$s."
+msgstr[1] "الإضافة التالية تتطلب تحديثاً للإصدار الأحدث لضمان أقصى توافق مع هذا القالب: %1$s."
+msgstr[2] "الإضافتان التاليتان تتطلبان تحديثاً للإصدار الأحدث لضمان أقصى توافق مع هذا القالب: %1$s."
+msgstr[3] "الإضافات التالية تتطلب تحديثاً للإصدار الأحدث لضمان أقصى توافق مع هذا القالب: %1$s."
+msgstr[4] "الإضافات التالية تتطلب تحديثاً للإصدار الأحدث لضمان أقصى توافق مع هذا القالب: %1$s."
+msgstr[5] "الإضافات التالية تتطلب تحديثاً للإصدار الأحدث لضمان أقصى توافق مع هذا القالب: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "هذا القالب يوصي بالإضافة التالية: %1$s"
+msgstr[1] "هذا القالب يوصي بالإضافة التالية: %1$s"
+msgstr[2] "هذا القالب يوصي بالإضافتين التاليتين: %1$s"
+msgstr[3] "هذا القالب يوصي بالإضافات التالية: %1$s"
+msgstr[4] "هذا القالب يوصي بالإضافات التالية: %1$s"
+msgstr[5] "هذا القالب يوصي بالإضافات التالية: %1$s"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "هذا القالب يتطلب الإضافة التالية: %1$s"
+msgstr[1] "هذا القالب يتطلب الإضافة التالية: %1$s"
+msgstr[2] "هذا القالب يتطلب الإضافتين التاليتين: %1$s"
+msgstr[3] "هذا القالب يتطلب الإضافات التالية: %1$s"
+msgstr[4] "هذا القالب يتطلب الإضافات التالية: %1$s"
+msgstr[5] "هذا القالب يتطلب الإضافات التالية: %1$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "حدث خطأ ما مع الإضافة البرمجية "
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "تحديث الإضافة: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "تثبيت الإضافة: %s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "تثبيت الإضافات"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "تثبيت الإضافات المطلوبة"
+
+#: inc/metabox.php:71
+msgid "Choose Sidebar Template"
+msgstr "اختر قالب الشريط الجانبي"
+
+#: inc/metabox.php:61
+msgid "Right Sidebar"
+msgstr "الشريط الجانبي الأيمن"
+
+#: inc/metabox.php:56
+msgid "Left Sidebar"
+msgstr "الشريط الجانبي الأيسر"
+
+#: inc/metabox.php:51
+msgid "Full Width Centered"
+msgstr "عرض كامل في الوسط"
+
+#: inc/metabox.php:46
+msgid "Full Width"
+msgstr "عرض كامل"
+
+#: inc/metabox.php:41 inc/widgets.php:14
+msgid "Default Sidebar"
+msgstr "الشريط الجانبي الأساسي"
+
+#: inc/metabox.php:18 inc/metabox.php:28
+msgid "Sidebar Layout"
+msgstr "تصميم الشريط الجانبي"
+
+#: inc/typography.php:354
+msgid "Lucida Console, Monaco"
+msgstr "Lucida Console, Monaco"
+
+#: inc/typography.php:353
+msgid "Courier New, Courier"
+msgstr "Courier New, Courier"
+
+#: inc/typography.php:352
+msgid "Verdana, Geneva"
+msgstr "Verdana, Geneva"
+
+#: inc/typography.php:351
+msgid "Trebuchet MS, Helvetica"
+msgstr "Trebuchet MS, Helvetica"
+
+#: inc/typography.php:350
+msgid "Tahoma, Geneva"
+msgstr "Tahoma, Geneva"
+
+#: inc/typography.php:349
+msgid "Lucida Sans Unicode, Lucida Grande"
+msgstr "Lucida Sans Unicode, Lucida Grande"
+
+#: inc/typography.php:348
+msgid "Impact, Charcoal"
+msgstr "Impact, Charcoal"
+
+#: inc/typography.php:347
+msgid "Comic Sans MS, cursive"
+msgstr "Comic Sans MS, cursive"
+
+#: inc/typography.php:346
+msgid "Arial Black, Gadget"
+msgstr "Arial Black, Gadget"
+
+#: inc/typography.php:345
+msgid "Arial, Helvetica"
+msgstr "Arial, Helvetica"
+
+#: inc/typography.php:344
+msgid "Times New Roman, Times"
+msgstr "Times New Roman, Times"
+
+#: inc/typography.php:343
+msgid "Palatino Linotype, Book Antiqua, Palatino"
+msgstr "Palatino Linotype, Book Antiqua, Palatino"
+
+#: inc/typography.php:342
+msgid "Georgia"
+msgstr "Georgia"
+
+#: inc/typography.php:25
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr "تشغيل"
+
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+#: inc/typography.php:24
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr "تشغيل"
+
+#: inc/extras.php:860
+msgid "Choose Category"
+msgstr "اختر التصنيف"
+
+#: inc/extras.php:831
+msgid " -- Choose -- "
+msgstr "--اختر--"
+
+#: inc/extras.php:718
+msgid "Your comment is awaiting moderation."
+msgstr "تعليقك بانتظار الموافقة"
+
+#: inc/extras.php:714
+msgid "%1$s at %2$s"
+msgstr "%1$s في%2$s"
+
+#: inc/extras.php:711
+msgid "<b class=\"fn\" itemprop=\"creator\" itemscope itemtype=\"http://schema.org/Person\">%s<span class=\"says\">says:</span></b>"
+msgstr "<b class=\"fn\" itemprop=\"creator\" itemscope itemtype=\"http://schema.org/Person\">%s<span class=\"says\">says:</span></b>"
+
+#: inc/extras.php:678
+msgid ")"
+msgstr "("
+
+#: inc/extras.php:678
+msgid " (Page"
+msgstr "صفحة)"
+
+#: inc/extras.php:675
+msgid "404 Error - Page Not Found"
+msgstr "404 - الصفحة غير موجودة"
+
+#: inc/extras.php:627
+msgid "Page %s"
+msgstr "صفحة %s"
+
+#: inc/extras.php:506
+msgid "d"
+msgstr "d"
+
+#: inc/extras.php:504 inc/extras.php:513
+msgid "F"
+msgstr "F"
+
+#: inc/extras.php:504 inc/extras.php:506 inc/extras.php:513
+msgid "m"
+msgstr "m"
+
+#: inc/extras.php:497
+msgid "\""
+msgstr "\""
+
+#: inc/extras.php:497
+msgid "Search Results for \""
+msgstr "نتائج البحث عن \""
+
+#: inc/customizer/general.php:202 inc/extras.php:375
+msgid "Home"
+msgstr "الرئيسية"
+
+#: inc/extras.php:339
+msgid "Search"
+msgstr "بحث"
+
+#: inc/extras.php:325
+msgid "Click here to add a menu"
+msgstr "لإضافة قائمة انقر هنا "
+
+#. translators: 1: list of tags.
+#: inc/extras.php:114
+msgid "%1$sTags:%2$s %3$s"
+msgstr "%1$sوسوم:%2$s %3$s"
+
+#. translators: %s: post title
+#: inc/extras.php:73
+msgid "0 Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "0 تعليقات <span class=\"screen-reader-text\"> on %s</span>"
+
+#. translators: %s: post author.
+#: inc/extras.php:54
+msgctxt "post author"
+msgid "by %s"
+msgstr "بواسطة %s"
+
+#: inc/extras.php:21
+msgid "updated on "
+msgstr "تم التحديث في "
+
+#: inc/extras.php:15
+msgid "on "
+msgstr "في"
+
+#: inc/custom-controls/typography/class-fonts.php:144
+msgctxt "font style"
+msgid "Lucida Console, Monaco"
+msgstr "Lucida Console, Monaco"
+
+#: inc/custom-controls/typography/class-fonts.php:140
+msgctxt "font style"
+msgid "Courier New, Courier"
+msgstr "Courier New, Courier"
+
+#: inc/custom-controls/typography/class-fonts.php:136
+msgctxt "font style"
+msgid "Verdana, Geneva"
+msgstr "Verdana, Geneva"
+
+#: inc/custom-controls/typography/class-fonts.php:132
+msgctxt "font style"
+msgid "Trebuchet MS, Helvetica"
+msgstr "Trebuchet MS, Helvetica"
+
+#: inc/custom-controls/typography/class-fonts.php:128
+msgctxt "font style"
+msgid "Tahoma, Geneva"
+msgstr "Tahoma, Geneva"
+
+#: inc/custom-controls/typography/class-fonts.php:124
+msgctxt "font style"
+msgid "Lucida Sans Unicode, Lucida Grande"
+msgstr "Lucida Sans Unicode, Lucida Grande"
+
+#: inc/custom-controls/typography/class-fonts.php:120
+msgctxt "font style"
+msgid "Impact, Charcoal"
+msgstr "Impact, Charcoal"
+
+#: inc/custom-controls/typography/class-fonts.php:116
+msgctxt "font style"
+msgid "Comic Sans MS, cursive"
+msgstr "Comic Sans MS, cursive"
+
+#: inc/custom-controls/typography/class-fonts.php:112
+msgctxt "font style"
+msgid "Arial Black, Gadget"
+msgstr "Arial Black, Gadget"
+
+#: inc/custom-controls/typography/class-fonts.php:108
+msgctxt "font style"
+msgid "Arial, Helvetica"
+msgstr "Arial, Helvetica"
+
+#: inc/custom-controls/typography/class-fonts.php:104
+msgctxt "font style"
+msgid "Times New Roman, Times"
+msgstr "Times New Roman, Times"
+
+#: inc/custom-controls/typography/class-fonts.php:100
+msgctxt "font style"
+msgid "Palatino Linotype, Book Antiqua, Palatino"
+msgstr "Palatino Linotype, Book Antiqua, Palatino"
+
+#: inc/custom-controls/typography/class-fonts.php:96
+msgctxt "font style"
+msgid "Georgia"
+msgstr "Georgia"
+
+#: inc/custom-controls/typography/class-typography-control.php:109
+msgid "Invalid Value"
+msgstr "قيمة غير صالحة"
+
+#: inc/custom-controls/typography/class-typography-control.php:108
+#: inc/custom-controls/typography/class-fonts.php:200
+msgid "Ultra-Bold 900 Italic"
+msgstr "Ultra-Bold 900 Italic"
+
+#: inc/custom-controls/typography/class-typography-control.php:107
+#: inc/custom-controls/typography/class-fonts.php:199
+msgid "Ultra-Bold 900"
+msgstr "Ultra-Bold 900"
+
+#: inc/custom-controls/typography/class-typography-control.php:106
+#: inc/custom-controls/typography/class-fonts.php:198
+msgid "Extra-Bold 800 Italic"
+msgstr "Extra-Bold 800 Italic"
+
+#: inc/custom-controls/typography/class-typography-control.php:105
+#: inc/custom-controls/typography/class-fonts.php:197
+msgid "Extra-Bold 800"
+msgstr "Extra-Bold 800"
+
+#: inc/custom-controls/typography/class-typography-control.php:104
+#: inc/custom-controls/typography/class-fonts.php:196
+msgid "Bold 700 Italic"
+msgstr "Bold 700 Italic"
+
+#: inc/custom-controls/typography/class-typography-control.php:103
+#: inc/custom-controls/typography/class-fonts.php:195
+msgid "Bold 700"
+msgstr "Bold 700"
+
+#: inc/custom-controls/typography/class-typography-control.php:102
+#: inc/custom-controls/typography/class-fonts.php:194
+msgid "Semi-Bold 600 Italic"
+msgstr "Semi-Bold 600 Italic"
+
+#: inc/custom-controls/typography/class-typography-control.php:101
+#: inc/custom-controls/typography/class-fonts.php:193
+msgid "Semi-Bold 600"
+msgstr "Semi-Bold 600"
+
+#: inc/custom-controls/typography/class-typography-control.php:100
+#: inc/custom-controls/typography/class-fonts.php:192
+msgid "Medium 500 Italic"
+msgstr "Medium 500 Italic"
+
+#: inc/custom-controls/typography/class-typography-control.php:99
+#: inc/custom-controls/typography/class-fonts.php:191
+msgid "Medium 500"
+msgstr "Medium 500"
+
+#: inc/custom-controls/typography/class-typography-control.php:98
+#: inc/custom-controls/typography/class-fonts.php:190
+msgid "Normal 400 Italic"
+msgstr "Normal 400 Italic"
+
+#: inc/custom-controls/typography/class-typography-control.php:97
+#: inc/custom-controls/typography/class-fonts.php:189
+msgid "Normal 400"
+msgstr "Normal 400"
+
+#: inc/custom-controls/typography/class-typography-control.php:96
+#: inc/custom-controls/typography/class-fonts.php:188
+msgid "Book 300 Italic"
+msgstr "Book 300 Italic"
+
+#: inc/custom-controls/typography/class-typography-control.php:95
+#: inc/custom-controls/typography/class-fonts.php:187
+msgid "Book 300"
+msgstr "Book 300"
+
+#: inc/custom-controls/typography/class-typography-control.php:94
+#: inc/custom-controls/typography/class-fonts.php:186
+msgid "Light 200 Italic"
+msgstr "Light 200 Italic"
+
+#: inc/custom-controls/typography/class-typography-control.php:93
+#: inc/custom-controls/typography/class-fonts.php:185
+msgid "Light 200"
+msgstr "Light 200"
+
+#: inc/custom-controls/typography/class-typography-control.php:92
+#: inc/custom-controls/typography/class-fonts.php:184
+msgid "Ultra-Light 100 Italic"
+msgstr "Ultra-Light 100 Italic"
+
+#: inc/custom-controls/typography/class-typography-control.php:91
+#: inc/custom-controls/typography/class-fonts.php:183
+msgid "Ultra-Light 100"
+msgstr "Ultra-Light 100"
+
+#: inc/custom-controls/typography/class-typography-control.php:90
+msgid "Spacing"
+msgstr "المسافة"
+
+#: inc/custom-controls/typography/class-typography-control.php:89
+msgid "Height"
+msgstr "الارتفاع"
+
+#: inc/custom-controls/typography/class-typography-control.php:88
+msgid "Size"
+msgstr "الحجم"
+
+#: inc/custom-controls/typography/class-typography-control.php:87
+msgid "Style"
+msgstr "النمط"
+
+#: inc/custom-controls/typography/class-typography-control.php:86
+msgid "Variant"
+msgstr "المتغير"
+
+#: inc/custom-controls/typography/class-typography-control.php:85
+msgid "Select a font-family"
+msgstr "اختر مجموعة الخط المراد استخدامها"
+
+#: inc/custom-controls/typography/class-typography-control.php:84
+msgid "Color"
+msgstr "اللون"
+
+#: inc/custom-controls/typography/class-typography-control.php:83
+msgid "Justify"
+msgstr "محاذاة بالتساوي"
+
+#: inc/custom-controls/typography/class-typography-control.php:82
+msgid "Center"
+msgstr "الوسط"
+
+#: inc/custom-controls/typography/class-typography-control.php:81
+msgid "Right"
+msgstr "اليمين"
+
+#: inc/custom-controls/typography/class-typography-control.php:80
+msgid "Left"
+msgstr "اليسار"
+
+#: inc/custom-controls/typography/class-typography-control.php:79
+msgid "Bottom"
+msgstr "الأسفل"
+
+#: inc/custom-controls/typography/class-typography-control.php:78
+msgid "Top"
+msgstr "الأعلى"
+
+#: inc/custom-controls/typography/class-typography-control.php:77
+msgid "Lowercase"
+msgstr "أحرف صغيرة"
+
+#: inc/custom-controls/typography/class-typography-control.php:76
+msgid "Uppercase"
+msgstr "أحرف كبيرة"
+
+#: inc/custom-controls/typography/class-typography-control.php:75
+msgid "None"
+msgstr "بدون"
+
+#: inc/custom-controls/typography/class-typography-control.php:74
+msgid "Text Transform"
+msgstr "تحويل النص"
+
+#: inc/custom-controls/typography/class-typography-control.php:73
+msgid "Text Align"
+msgstr "محاذاة النص"
+
+#: inc/custom-controls/typography/class-typography-control.php:72
+msgid "Letter Spacing"
+msgstr "تباعد الحروف"
+
+#: inc/custom-controls/typography/class-typography-control.php:71
+msgid "Font Style"
+msgstr "نمط الخط"
+
+#: inc/custom-controls/typography/class-typography-control.php:70
+msgid "Line Height"
+msgstr "ارتفاع السطر"
+
+#: inc/custom-controls/typography/class-typography-control.php:69
+msgid "Font Weight"
+msgstr "سمك الخط"
+
+#: inc/custom-controls/typography/class-typography-control.php:68
+msgid "Font Size"
+msgstr "حجم الخط"
+
+#: inc/custom-controls/typography/class-typography-control.php:67
+msgid "Font Family"
+msgstr "مجموعة الخطوط"
+
+#: inc/custom-controls/typography/class-typography-control.php:66
+msgctxt "font style"
+msgid "Monospace"
+msgstr "توحيد محاذاة الحروف"
+
+#: inc/custom-controls/typography/class-typography-control.php:65
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+#: inc/custom-controls/typography/class-typography-control.php:64
+msgctxt "font style"
+msgid "Serif"
+msgstr "Serif"
+
+#: inc/custom-controls/typography/class-typography-control.php:63
+msgid "Thai"
+msgstr "التايلاندية"
+
+#: inc/custom-controls/typography/class-typography-control.php:62
+msgid "Telugu"
+msgstr "التيلجو"
+
+#: inc/custom-controls/typography/class-typography-control.php:61
+msgid "Tamil"
+msgstr "التاميلية"
+
+#: inc/custom-controls/typography/class-typography-control.php:60
+msgid "Gujarati"
+msgstr "الغوجاراتية"
+
+#: inc/custom-controls/typography/class-typography-control.php:59
+msgid "Bengali"
+msgstr "البنغالية"
+
+#: inc/custom-controls/typography/class-typography-control.php:58
+msgid "Arabic"
+msgstr "العربية"
+
+#: inc/custom-controls/typography/class-typography-control.php:57
+msgid "Hebrew"
+msgstr "العبرية"
+
+#: inc/custom-controls/typography/class-typography-control.php:56
+msgid "Vietnamese"
+msgstr "الفيتنامية"
+
+#: inc/custom-controls/typography/class-typography-control.php:55
+msgid "Latin Extended"
+msgstr "اللاتينية المطولة"
+
+#: inc/custom-controls/typography/class-typography-control.php:54
+msgid "Latin"
+msgstr "اللاتينية"
+
+#: inc/custom-controls/typography/class-typography-control.php:53
+msgid "Khmer"
+msgstr "الكمبودية"
+
+#: inc/custom-controls/typography/class-typography-control.php:52
+msgid "Greek Extended"
+msgstr "الإغريقية المطولة"
+
+#: inc/custom-controls/typography/class-typography-control.php:51
+msgid "Greek"
+msgstr "الإغريقية"
+
+#: inc/custom-controls/typography/class-typography-control.php:50
+msgid "Devanagari"
+msgstr "الديفنغارية"
+
+#: inc/custom-controls/typography/class-typography-control.php:49
+msgid "Cyrillic Extended"
+msgstr "السيريلية المطولة"
+
+#: inc/custom-controls/typography/class-typography-control.php:48
+msgid "Cyrillic"
+msgstr "السيريلية"
+
+#: inc/custom-controls/typography/class-typography-control.php:47
+msgid "All"
+msgstr "الكل"
+
+#: inc/custom-controls/typography/class-typography-control.php:46
+msgid "OFF"
+msgstr "إيقاف التشغيل"
+
+#: inc/custom-controls/typography/class-typography-control.php:45
+msgid "ON"
+msgstr "‏‏تشغيل"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:443
+#: inc/custom-controls/repeater/class-control-repeater.php:445
+msgid "Change File"
+msgstr "تغيير ملف"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:443
+#: inc/custom-controls/repeater/class-control-repeater.php:447
+msgid "Add File"
+msgstr "إضافة ملف"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:432
+#: inc/custom-controls/repeater/class-control-repeater.php:437
+msgid "No File Selected"
+msgstr "لم يتم اختيار أي ملف"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:407
+#: inc/custom-controls/repeater/class-control-repeater.php:409
+msgid "Change Image"
+msgstr "تغيير الصورة "
+
+#: inc/custom-controls/repeater/class-control-repeater.php:407
+#: inc/custom-controls/repeater/class-control-repeater.php:411
+msgid "Add Image"
+msgstr "إضافة صورة"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:406
+#: inc/custom-controls/repeater/class-control-repeater.php:471
+msgid "Remove"
+msgstr "إزالة"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:396
+#: inc/custom-controls/repeater/class-control-repeater.php:401
+msgid "No Image Selected"
+msgstr "لم يتم اختيار أي صورة"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:371
+msgid "Hex Value"
+msgstr "قيمة Hex"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:239
+msgid "Limit: %s rows"
+msgstr "الحد:  %s صفوف"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:83
+msgid "Add new %s"
+msgstr "أضف جديد %s"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:75
+msgid "row"
+msgstr "صف"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:13
+msgid "View Pro"
+msgstr "عرض الإصدار الاحترافي"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:11
+msgid "Free vs Pro"
+msgstr "الإصدار المجاني  vs الإصدار الاحترافي"
+
+#: inc/getting-started/tabs/link-panel.php:31
+msgid "Submit Here"
+msgstr "قدّم هنا"
+
+#: inc/getting-started/tabs/link-panel.php:29
+msgid "If you would like to get your website shared and featured, please submit your website by clicking the link below."
+msgstr "إذا كنت تود أن يتم مشاركة موقعك للآخرين و إبرازه، يرجى تقديم موقعك بالنقر على الرابط أدناه."
+
+#: inc/getting-started/tabs/link-panel.php:28
+msgid "We regularly share and feature websites made using our themes on our social media accounts( Facebook, Instagram, Twitter and Pinterest )."
+msgstr "نحن نقوم بشكل منتظم بمشاركة و إبراز مواقع أُنشئت باستخدام القوالب الخاصة بنا عبر وسائلنا للتواصل الاجتماعي (فيسبوك، انستغرام، تويتر، و بينترست)."
+
+#: inc/getting-started/tabs/link-panel.php:27
+#: inc/getting-started/tabs/link-panel.php:31
+msgid "Submit your site for social share"
+msgstr "قدم موقعك ليتم تداوله في وسائل التواصل الاجتماعي"
+
+#: inc/getting-started/tabs/link-panel.php:23
+msgid "Visit the knowledge base"
+msgstr "زيارة قاعدة المعرفة"
+
+#: inc/getting-started/tabs/link-panel.php:21
+msgid "Our Knowledge Base has step-by-step video and text tutorials, from installing the WordPress to working with themes and more."
+msgstr "تحتوي قاعدة المعرفة الخاصة بنا على فيديوهات توضيحية و نصوص تعليمية  لشرح طريقة تثبيت الوورد برس و حتى كيفية التعامل القالب و غيره."
+
+#: inc/getting-started/tabs/link-panel.php:20
+msgid "Need help with using the WordPress as quickly as possible? Visit our well-organized Knowledge Base!"
+msgstr "هل تحتاج إلى مساعدة في كيفية استخدام الوورد برس في أسرع وقت؟ قم بزيارة قاعدة المعرفة المرتبة بعناية."
+
+#: inc/getting-started/tabs/link-panel.php:19
+#: inc/getting-started/tabs/link-panel.php:23
+msgid "Visit the Knowledge Base"
+msgstr "زيارة قاعدة المعرفة"
+
+#: inc/getting-started/tabs/link-panel.php:14
+msgid "Read More About the Pro Theme"
+msgstr "اقرأ المزيد عن قالب الإصدار الاحترافي"
+
+#: inc/getting-started/tabs/link-panel.php:13
+#: inc/getting-started/tabs/free-vs-pro-panel.php:12
+msgid "View Premium Version"
+msgstr "عرض الإصدار الممتاز"
+
+#: inc/getting-started/tabs/link-panel.php:12
+msgid "You will also get more frequent updates and quicker support with the Pro version."
+msgstr "سوف تحصل أيضاً على تحديثات بشكل مستمر و دعماً أسرع مع الإصدار الاحترافي"
+
+#: inc/getting-started/tabs/link-panel.php:10
+msgid "Upgrade To Pro"
+msgstr "ترقية إلى الإصدار الاحترافي"
+
+#: inc/getting-started/tabs/support-panel.php:56
+msgid "Also, you might experience a slower response time during the weekend, so please bear with us."
+msgstr "كذلك قد تواجه أن زمن الرد عليك أبطأ في أيام نهاية الأسبوع، فنرجو أن تعذرنا على ذلك."
+
+#: inc/getting-started/tabs/support-panel.php:55
+msgid "When you submit the support ticket, please try to provide as much details as possible so that we can solve your problem faster. We recommend you to send us a screenshot(s) with issues explained and your website's address (URL)."
+msgstr "عند التقدم بتذكرة للدعم، يرجى تزويدنا بمعلومات أكثر قدر الإمكان و ذلك لنتمكن من حل مشكلتك بشكل أسرع. ننصح بإرسال لقطة من شاشة العرض مع شرح للمشكلة التي تواجهها و عنوان موقعك."
+
+#: inc/getting-started/tabs/support-panel.php:54
+msgid "Before you send us a support ticket for any issues, please make sure you have updated the theme to the latest version. We might have fixed the bug in the theme update."
+msgstr "قبل إرسال أي تذكرة للدعم عن المشكلة التي تواجهها، يرجى التأكد من تحديث القالب للإصدار الأحدث. فقد نكون قد أصلحنا في التحديث الخطأ البرمجي."
+
+#: inc/getting-started/tabs/support-panel.php:52
+msgid "How can I solve my issues quickly and get faster support?"
+msgstr "كيف يمكنني حل مشكلاتي بسرعة و تلقي الدعم بشكل أسرع؟"
+
+#: inc/getting-started/tabs/support-panel.php:47
+msgid "If this didn't help, please %1$scontact us%2$s."
+msgstr "إذا لم يفلح ذلك، يرجى %1$s  التواصل معنا %2$s."
+
+#: inc/getting-started/tabs/support-panel.php:46
+msgid "To solve the issue, deactivate all the plugins first, except the ones recommended by the theme. Then, hard reload your website using %1$s\"Ctrl+Shift+R\"%2$s on Windows. If the issues are fixed, start activating the plugins one by one, and reload and check your site each time. This will help you find out the plugin that is causing the problem."
+msgstr "لحل المشكلة، قم أولاً بتعطيل جميع الإضافات باستثناء الإضافات الموصى بها من قبل القالب. بعد ذلك، قم بإعادة تحميل الموقع باستخدام  %1$s\"Ctrl+Shift+R\"%2$s في الويندوز. إذا حُلّت المشكلة، قم بتفعيل الإضافات الواحدة تلو الأخرى، و قم بإعادة التحميل و التأكد من عمل الموقع بشكل صحيح. ذلك سيساعدك في التعرف على الإضافة التي تسبب المشكلة."
+
+#: inc/getting-started/tabs/support-panel.php:45
+msgid "If your customizer is not loading properly or you are having issues with the theme, it might be due to the plugin conflict."
+msgstr "إذا كان المخصّص الخاص بك لا يحمّل بشكل صحيح أو واجهت مشاكل مع القالب، قد يكون ذلك بسبب تعارضه مع أحد الإضافات."
+
+#: inc/getting-started/tabs/support-panel.php:43
+msgid "Why is my theme not working well?"
+msgstr "لماذا القالب الخاص بي لا يعمل بشكل صحيح؟"
+
+#: inc/getting-started/tabs/support-panel.php:38
+msgid "You can change the copyright text going to %1$sAppearance > Customize > Footer Settings%2$s. However, if you want to hide the author credit text, please %3$supgrade to the Pro version%4$s."
+msgstr "بإمكانك تغيير نص حقوق النشر بالذهاب إلى %1$s المظهر>تخصيص>إعدادات التذييل %2$s . و مع ذلك، إذا أردت إخفاء نص حقوق المؤلف، يرجى %3$s الترقية إلى الإصدار الاحترافي %4$s."
+
+#: inc/getting-started/tabs/support-panel.php:36
+msgid "How do I change the copyright text?"
+msgstr "كيف يمكنني تغيير نص حقوق النشر؟"
+
+#: inc/getting-started/tabs/support-panel.php:31
+msgid "The Pro version is built with lots of flexibility in mind for future upgrades. Therefore, it is slightly different than the free theme but extremely flexible and easy-to-use."
+msgstr "الإصدار الاحترافي مصمم بطريقة مرنة تسمح بتوافقه مع التحديثات اللاحقة. لذلك فهو يختلف قليلاً عن الإصدار المجاني، إلا أنه مرن جداً و سهل الاستخدام."
+
+#: inc/getting-started/tabs/support-panel.php:30
+msgid "However, since the Pro version comes with added features and settings, you will need to set up the additional features in the customizer. This process is simple and only takes a few minutes."
+msgstr "و لأن الإصدار الاحترافي مزود بميزات و إعدادات إضافية، فإن ذلك سيتطلب منك تهيئتها أولاً من المخصص. هذه العملية بسيطة و لا تستغرق منك إلا دقائق معدودة."
+
+#: inc/getting-started/tabs/support-panel.php:29
+msgid "When you upgrade to the Pro theme, your posts, pages, media, categories, and other data will remain intact-- all your data is saved."
+msgstr "عند ترقيتك للإصدار الاحترافي، فإن جميع المنشورات و الصفحات و الوسائط و التصنيفات و البيانات الأخرى الخاصة بك ستكون سليمة و محفوظة."
+
+#: inc/getting-started/tabs/support-panel.php:27
+msgid "Upgrading to the Pro version- will I lose my changes?"
+msgstr "عند ترقيتي للإصدار الاحترافي، هل سأفقد كل التغييرات التي قمت بها؟"
+
+#: inc/getting-started/tabs/support-panel.php:22
+msgid "With Premium version, besides the extra features and frequent updates, you get premium support. If you run into any theme issues, you will get a lot quicker response compared to the free support."
+msgstr "مع الإصدار الممتاز، إلى جانب الميزات الإضافية و التحديثات المستمرة، سوف تحصل على دعم مميز. إذا واجهتك أي مشاكل في القالب، سيستجيب لك قسم الدعم بسرعة مقارنة مع الإصدار المجاني. "
+
+#: inc/getting-started/tabs/support-panel.php:20
+msgid "What are the advantages of upgrading to the Premium version?"
+msgstr "ما هي مزايا الترقية للإصدار الممتاز؟"
+
+#: inc/getting-started/tabs/support-panel.php:15
+msgid "Overall, you will have more control over your website with the Pro version. You can find out more about the difference between Free and Pro versions %1$shere%2$s."
+msgstr "إجمالاً، ستتمتع بتحكم أكبر على موقعك مع الإصدار الاحترافي. يمكنك التعرف على المزيد عن الفروقات بين الإصدار المجاني و الاحترافي %1$shere%2$s."
+
+#: inc/getting-started/tabs/support-panel.php:13
+msgid "Both Free and Pro version of the themes are well-built. However, the Pro version comes with many additional features."
+msgstr "إن كلا الإصدارين المجاني و الاحترافي مصمم بشكل ممتاز، إلا أن الإصدار الاحترافي يشمل المزيد من الميزات."
+
+#: inc/getting-started/tabs/support-panel.php:11
+msgid "What is the difference between Free and Pro?"
+msgstr "ما هو الفرق بين الإصدار المجاني و الإصدار الاحترافي؟"
+
+#: inc/getting-started/tabs/plugins-panel.php:60
+msgid "Version %s"
+msgstr "إصدار %s"
+
+#: inc/getting-started/tabs/plugins-panel.php:50
+msgid "These Free Plugins might be handy for you."
+msgstr "هذه الإضافات المجانية قد تفيدك."
+
+#: inc/getting-started/tabs/plugins-panel.php:49
+msgid "Free Plugins"
+msgstr "إضافات مجانية"
+
+#: inc/getting-started/tabs/plugins-panel.php:12
+msgid "Below is a list of recommended plugins to install that will help you get the most out of Blossom Travel. Although each plugin is optional, it is recommended that you at least install the BlossomThemes Toolkit, BlossomThemes Email Newsletter & BlossomThemes Social Feed to create a website similar to the Blossom Travel demo."
+msgstr "المذكور أدناه هو قائمة بالإضافات الموصى بها للتثبيت و التي ستساعدك على الاستفادة القصوى من قالب بلوسوم للسفر. على الرغم من أن جميع الإضافات تعتبر اختيارية، إلا أننا ننصح بتثبيت صندوق أدوات القالب، نشرة القائمة البريدية للقالب، و مواجز التواصل الاجتماعي للقالب على الأقل و ذلك لإنشاء موقع مشابه للـقالب في العرض التوضيحي."
+
+#: inc/getting-started/tabs/help-panel.php:32
+msgid "View Demo"
+msgstr "شاهد العرض التوضيحي"
+
+#: inc/getting-started/tabs/help-panel.php:31
+msgid "Visit the Demo"
+msgstr "زيارة العرض التوضيحي"
+
+#: inc/getting-started/tabs/help-panel.php:30
+msgid "Visit the demo to get more ideas about our theme design."
+msgstr "قم بزيارة العرض التوضيحي للحصول على المزيد من الأفكار عن تصميم القالب"
+
+#: inc/getting-started/tabs/help-panel.php:29
+msgid "View Our Blossom Travel Demo"
+msgstr "شاهد العرض التوضيحي لقالب بلوسوم السفر"
+
+#: inc/getting-started/tabs/help-panel.php:24
+msgid "Contact Support"
+msgstr "التواصل مع الدعم"
+
+#: inc/getting-started/tabs/help-panel.php:23
+msgid "Visit the Support"
+msgstr "زيارة الدعم"
+
+#: inc/getting-started/tabs/help-panel.php:22
+msgid "If the Knowledge Base didn't answer your queries, submit us a support ticket here. Our response time usually is less than a business day, except on the weekends."
+msgstr "إن كانت قاعدة المعرفة لم تجب على استفساراتك، قم بتقديم تذكرة لطلب الدعم هنا. يستغرق الرد على استفساراتكم أقل من يوم عمل، باستثناء أيام نهاية الأسبوع."
+
+#: inc/getting-started/tabs/help-panel.php:21
+msgid "It's always a good idea to visit our %1$sKnowledge Base%2$s before you send us a support ticket."
+msgstr "تعد زيارة %1$s قاعدة المعرفة %2$s فكرة صائبة قبل التقدم بتذكرة للدعم."
+
+#: inc/getting-started/tabs/help-panel.php:20
+msgid "Support Ticket"
+msgstr "تذكرة الدعم"
+
+#: inc/getting-started/tabs/help-panel.php:15
+msgid "View Documentation"
+msgstr "عرض الوثائق"
+
+#: inc/getting-started/tabs/help-panel.php:14
+msgid "Visit the Documentation"
+msgstr "زر صفحة الوثائق"
+
+#: inc/getting-started/tabs/help-panel.php:13
+msgid "New to the WordPress world? Our documentation has step by step procedure to create a beautiful website."
+msgstr "هل أنت جديد في عالم الوورد برس؟ تحتوي وثائقنا على طريقة إنشاء موقع رائع خطوة بخطوة"
+
+#: inc/getting-started/tabs/help-panel.php:12
+msgid "View Our Documentation Link"
+msgstr "عرض رابط الوثائق"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:118
+msgid "Jetpack Portfolio"
+msgstr "محفظة Jetpack"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:113
+msgid "Deactivate"
+msgstr "تعطيل"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2726
+#: inc/getting-started/class-getting-start-plugin-helper.php:98
+#: inc/getting-started/class-getting-start-plugin-helper.php:118
+msgid "Activate"
+msgstr "تشغيل"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:94
+msgid "Install and activate"
+msgstr "تثبيت و تفعيل"
+
+#: inc/getting-started/getting-started.php:154
+msgid "Free Vs Pro"
+msgstr "الإصدار المجاني مقابل الإصدار الاحترافي"
+
+#: inc/getting-started/getting-started.php:136
+msgid "FAQ's &amp; Support"
+msgstr "الأسئلة الشائعة و الدعم"
+
+#: inc/getting-started/tabs/plugins-panel.php:10
+#: inc/getting-started/getting-started.php:118
+msgid "Recommended Plugins"
+msgstr "الإضافات الموصى بها"
+
+#: inc/getting-started/getting-started.php:106
+msgid "You will find everything you need to get started with %1$s below."
+msgstr "سوف تجد في الأسفل كل ما تحتاجه لكيفية البدء مع %1$s "
+
+#: inc/getting-started/getting-started.php:105
+msgid "Getting started with %1$s v%2$s"
+msgstr "البدء مع %1$s v%2$s "
+
+#: inc/getting-started/getting-started.php:40
+msgid "Activating "
+msgstr "تفعيل"
+
+#: inc/getting-started/getting-started.php:16
+#: inc/getting-started/getting-started.php:17
+#: inc/getting-started/getting-started.php:127
+msgid "Getting Started"
+msgstr "البدء"
+
+#: inc/partials.php:165
+msgid "All Rights Reserved. "
+msgstr "جميع الحقوق محفوظة"
+
+#: inc/partials.php:163 inc/extras.php:502 inc/extras.php:504
+#: inc/extras.php:506 inc/extras.php:511 inc/extras.php:513 inc/extras.php:518
+msgid "Y"
+msgstr "Y"
+
+#: inc/partials.php:162
+msgid "&copy; Copyright "
+msgstr "&copy; حقوق النشر"
+
+#: inc/partials.php:103 inc/partials.php:112
+msgid "Get My Travel Guides"
+msgstr "الحصول على إرشادات السفر"
+
+#: inc/partials.php:76
+msgid "Gallery"
+msgstr "معرض الصور"
+
+#: inc/partials.php:67 inc/customizer/general.php:410 inc/extras.php:135
+#: inc/extras.php:145
+msgid "You might also enjoy:"
+msgstr "قد يعجبك أيضاً: "
+
+#: inc/partials.php:58 inc/customizer/general.php:365
+#: inc/template-functions.php:406
+msgid "About Author"
+msgstr "نبذة عن الكاتب"
+
+#: inc/partials.php:49 inc/customizer/slider.php:74
+msgid "Purchase"
+msgstr "شراء"
+
+#: inc/partials.php:40 inc/customizer/slider.php:49
+msgid "Find Your Best Holiday"
+msgstr "استكشف لقضاء أفضل إجازة "
+
+#: inc/partials.php:31 inc/customizer/general.php:300
+#: inc/template-functions.php:358 inc/extras.php:138 inc/extras.php:148
+msgid "Read"
+msgstr "اقرأ"
+
+#: inc/custom-functions.php:568
+msgid "Dismiss"
+msgstr "تجاهل"
+
+#: inc/custom-functions.php:567
+msgid "Go to the getting started."
+msgstr "الذهاب إلى كيفية البدء"
+
+#: inc/custom-functions.php:566
+msgid "%1$s is now installed and ready to use. Click below to see theme documentation, plugins to install and other details to get started."
+msgstr "%1$s تم تثبيته الآن و جاهز للاستخدام. انقر أدناه لتشاهد الوثائق الخاصة بالقالب، و إضافات للتثبيت و تفاصيل أخرى لكيفية البدء."
+
+#: inc/custom-functions.php:565
+msgid "Congratulations!"
+msgstr "تهانينا!"
+
+#: inc/custom-functions.php:414
+msgid "Archives"
+msgstr "الأرشيف"
+
+#: inc/custom-functions.php:408
+msgid "Day"
+msgstr "اليوم"
+
+#: inc/custom-functions.php:406 inc/custom-functions.php:408
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/custom-functions.php:402
+msgid "Month"
+msgstr "الشهر"
+
+#: inc/custom-functions.php:400 inc/custom-functions.php:402
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/custom-functions.php:396
+msgid "Year"
+msgstr "السنة"
+
+#: inc/custom-functions.php:394 inc/custom-functions.php:396
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/custom-functions.php:390
+msgid "Tags"
+msgstr "الوسوم"
+
+#: inc/custom-functions.php:383
+msgid "Category"
+msgstr "التصنيف"
+
+#: inc/custom-functions.php:338
+msgid "Leave A Comment"
+msgstr "اكتب تعليقاً"
+
+#: inc/custom-functions.php:337
+msgid "Comment"
+msgstr "تعليق"
+
+#: inc/custom-functions.php:324
+msgid "Website"
+msgstr "الموقع"
+
+#: inc/custom-functions.php:322
+msgid "Email*"
+msgstr "البريد الالكتروني*"
+
+#: inc/custom-functions.php:320
+msgid "Name*"
+msgstr "الاسم*"
+
+#: inc/custom-functions.php:109
+msgctxt "header image description"
+msgid "Default Banner"
+msgstr "البانر الأساسي"
+
+#: inc/custom-functions.php:45 inc/custom-functions.php:144
+msgid "Primary"
+msgstr "الأساسي"
+
+#: single-blossom-portfolio.php:19 inc/partials.php:148
+#: inc/customizer/general.php:574
+msgid "Related Projects"
+msgstr "مشاريع ذات صلة"
+
+#: template-parts/content-none.php:45
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "يبدو أننا لم نستطع العثور على ما تبحث عنه. لعل استعمال البحث سيساعدك."
+
+#: template-parts/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "عذراً، لا يوجد ما يطابق مفردات بحثك. يرجى المحاولة مرة أخرى بكلمات بحث مختلفة"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "هل أنت مستعد لنشر مقالتك الأولى؟ <a href=\"%1$s\"> ابدأ هنا </a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "لا يوجد شيء"
+
+#: 404.php:15
+msgid "Take me to the home page"
+msgstr "الرجوع إلى الصفحة الرئيسية"
+
+#: 404.php:14
+msgid "404"
+msgstr "404"
+
+#: sections/instagram.php:8 inc/partials.php:139 inc/customizer/home.php:140
+msgid "Instagram"
+msgstr "الانستغرام"
+
+#: sections/blog.php:10 inc/partials.php:85 inc/partials.php:94
+#: inc/partials.php:130 inc/customizer/home.php:82
+msgid "View More"
+msgstr "اعرض المزيد"
+
+#: sections/blog.php:8 inc/partials.php:121 inc/customizer/home.php:57
+msgid "Explore all New Trending Stories"
+msgstr "استكشف جميع القصص الأكثر قراءة"
+
+#. Author URI of the theme
+msgid "https://blossomthemes.com/"
+msgstr "https://blossomthemes.com/"
+
+#. Author of the theme
+msgid "Blossom Themes"
+msgstr "قوالب بلوسوم"
+
+#. Theme URI of the theme
+msgid "https://blossomthemes.com/downloads/blossom-travel-free-wordpress-theme/"
+msgstr "https://blossomthemes.com/downloads/blossom-travel-free-wordpress-theme/"

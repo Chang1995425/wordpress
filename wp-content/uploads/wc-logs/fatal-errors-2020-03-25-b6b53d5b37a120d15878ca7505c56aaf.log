@@ -1,0 +1,20 @@
+2020-03-25T15:06:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php on line 463
+
+2020-03-25T15:08:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php on line 463
+
+2020-03-25T15:10:34+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in C:\xampp\htdocs\wordpress\wp-content\plugins\envothemes-demo-import\includes\panel\classes\importers\class-helpers.php:103
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\envothemes-demo-import\includes\panel\classes\importers\class-wordpress-importer.php(1009): Envo_Demos_Helpers::wp_get_http('https://envothe...', 'C:/xampp/htdocs...')
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\envothemes-demo-import\includes\panel\classes\importers\class-wordpress-importer.php(963): WP_Import->fetch_remote_file('https://envothe...', Array)
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\envothemes-demo-import\includes\panel\classes\importers\class-wordpress-importer.php(700): WP_Import->process_attachment(Array, 'https://envothe...')
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\envothemes-demo-import\includes\panel\classes\importers\class-wordpress-importer.php(112): WP_Import->process_posts()
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\ in C:\xampp\htdocs\wordpress\wp-content\plugins\envothemes-demo-import\includes\panel\classes\importers\class-helpers.php on line 103
+
+2020-03-25T15:11:36+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in C:\xampp\htdocs\wordpress\wp-content\plugins\envothemes-demo-import\includes\panel\classes\importers\class-helpers.php:103
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\envothemes-demo-import\includes\panel\classes\importers\class-wordpress-importer.php(1009): Envo_Demos_Helpers::wp_get_http('https://envothe...', 'C:/xampp/htdocs...')
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\envothemes-demo-import\includes\panel\classes\importers\class-wordpress-importer.php(963): WP_Import->fetch_remote_file('https://envothe...', Array)
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\envothemes-demo-import\includes\panel\classes\importers\class-wordpress-importer.php(700): WP_Import->process_attachment(Array, 'https://envothe...')
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\envothemes-demo-import\includes\panel\classes\importers\class-wordpress-importer.php(112): WP_Import->process_posts()
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\ in C:\xampp\htdocs\wordpress\wp-content\plugins\envothemes-demo-import\includes\panel\classes\importers\class-helpers.php on line 103
+

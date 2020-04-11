@@ -1,0 +1,374 @@
+2020-03-26T06:37:28+00:00 DEBUG ---[ New Import ] PHP Memory: 512 MB, WP Memory: 40 MB
+2020-03-26T06:37:28+00:00 DEBUG Parsing products CSV.
+2020-03-26T06:37:28+00:00 DEBUG Finished parsing products CSV.
+2020-03-26T06:37:28+00:00 DEBUG ---
+2020-03-26T06:37:28+00:00 DEBUG Processing products.
+2020-03-26T06:37:28+00:00 DEBUG > Row 1 - preparing for import.
+2020-03-26T06:37:28+00:00 DEBUG > > > Product type "football mat" not allowed - using simple.
+2020-03-26T06:37:28+00:00 DEBUG > Inserting Alabama State University
+2020-03-26T06:37:29+00:00 DEBUG > Inserted - post ID is 1.
+2020-03-26T06:37:29+00:00 DEBUG > > Importing image "F0000001.jpg"
+2020-03-26T06:37:29+00:00 DEBUG > > Error importing image "F0000001.jpg"
+2020-03-26T06:37:29+00:00 DEBUG > > Local image did not exist!
+2020-03-26T06:37:29+00:00 DEBUG > > Images set
+2020-03-26T06:37:29+00:00 DEBUG > Finished importing post ID 1.
+2020-03-26T06:37:29+00:00 DEBUG > Row 2 - preparing for import.
+2020-03-26T06:37:29+00:00 DEBUG > > > Product type "all-star mat" not allowed - using simple.
+2020-03-26T06:37:29+00:00 DEBUG > &#8220;Emporia State University&#8221;Invalid or duplicated SKU. with post ID:
+2020-03-26T06:37:29+00:00 DEBUG > Row 3 - preparing for import.
+2020-03-26T06:37:29+00:00 DEBUG > > > Product type "basketball mat" not allowed - using simple.
+2020-03-26T06:37:29+00:00 DEBUG > &#8220;Iowa State University&#8221;Invalid or duplicated SKU. with post ID:
+2020-03-26T06:37:29+00:00 DEBUG > Row 4 - preparing for import.
+2020-03-26T06:37:29+00:00 DEBUG > > > Product type "baseball mat" not allowed - using simple.
+2020-03-26T06:37:29+00:00 DEBUG > &#8220;Iowa State University&#8221;Invalid or duplicated SKU. with post ID:
+2020-03-26T06:37:29+00:00 DEBUG > Row 5 - preparing for import.
+2020-03-26T06:37:29+00:00 DEBUG > > > Product type "soccer ball mat" not allowed - using simple.
+2020-03-26T06:37:29+00:00 DEBUG > &#8220;Iowa State University&#8221;Invalid or duplicated SKU. with post ID:
+2020-03-26T06:37:29+00:00 DEBUG > Row 6 - preparing for import.
+2020-03-26T06:37:29+00:00 DEBUG > > > Product type "all-star mat" not allowed - using simple.
+2020-03-26T06:37:29+00:00 DEBUG > &#8220;Iowa State University&#8221;Invalid or duplicated SKU. with post ID:
+2020-03-26T06:37:29+00:00 DEBUG > Row 7 - preparing for import.
+2020-03-26T06:37:29+00:00 DEBUG > > > Product type "starter mat" not allowed - using simple.
+2020-03-26T06:37:29+00:00 DEBUG > &#8220;Iowa State University&#8221;Invalid or duplicated SKU. with post ID:
+2020-03-26T06:37:29+00:00 DEBUG > Row 8 - preparing for import.
+2020-03-26T06:37:29+00:00 DEBUG > > > Product type "tailgater mat" not allowed - using simple.
+2020-03-26T06:37:29+00:00 DEBUG > &#8220;Iowa State University&#8221;Invalid or duplicated SKU. with post ID:
+2020-03-26T06:37:29+00:00 DEBUG > Row 9 - preparing for import.
+2020-03-26T06:37:29+00:00 DEBUG > > > Product type "ulti-mat" not allowed - using simple.
+2020-03-26T06:37:29+00:00 DEBUG > &#8220;Iowa State University&#8221;Invalid or duplicated SKU. with post ID:
+2020-03-26T06:37:29+00:00 DEBUG Finished processing products.
+2020-03-26T06:37:30+00:00 DEBUG ---[ New Import ] PHP Memory: 512 MB, WP Memory: 40 MB
+2020-03-26T06:37:30+00:00 DEBUG Parsing products CSV.
+2020-03-26T06:37:30+00:00 DEBUG Finished parsing products CSV.
+2020-03-26T06:37:30+00:00 DEBUG ---
+2020-03-26T06:37:30+00:00 DEBUG Processing products.
+2020-03-26T06:37:30+00:00 DEBUG > Row 1 - preparing for import.
+2020-03-26T06:37:30+00:00 DEBUG > > > Product type "football mat" not allowed - using simple.
+2020-03-26T06:37:30+00:00 DEBUG > &#8220;Kent State University&#8221;Invalid or duplicated SKU. with post ID:
+2020-03-26T06:37:30+00:00 DEBUG > Row 2 - preparing for import.
+2020-03-26T06:37:30+00:00 DEBUG > > > Product type "basketball mat" not allowed - using simple.
+2020-03-26T06:37:30+00:00 DEBUG > &#8220;Kent State University&#8221;Invalid or duplicated SKU. with post ID:
+2020-03-26T06:37:30+00:00 DEBUG > Row 3 - preparing for import.
+2020-03-26T06:37:30+00:00 DEBUG > > > Product type "baseball mat" not allowed - using simple.
+2020-03-26T06:37:30+00:00 DEBUG > &#8220;Kent State University&#8221;Invalid or duplicated SKU. with post ID:
+2020-03-26T06:37:30+00:00 DEBUG > Row 4 - preparing for import.
+2020-03-26T06:37:30+00:00 DEBUG > > > Product type "soccer ball mat" not allowed - using simple.
+2020-03-26T06:37:30+00:00 DEBUG > &#8220;Kent State University&#8221;Invalid or duplicated SKU. with post ID:
+2020-03-26T06:37:30+00:00 DEBUG > Row 5 - preparing for import.
+2020-03-26T06:37:30+00:00 DEBUG > > > Product type "all-star mat" not allowed - using simple.
+2020-03-26T06:37:30+00:00 DEBUG > &#8220;Kent State University&#8221;Invalid or duplicated SKU. with post ID:
+2020-03-26T06:37:30+00:00 DEBUG > Row 6 - preparing for import.
+2020-03-26T06:37:30+00:00 DEBUG > > > Product type "starter mat" not allowed - using simple.
+2020-03-26T06:37:30+00:00 DEBUG > &#8220;Kent State University&#8221;Invalid or duplicated SKU. with post ID:
+2020-03-26T06:37:30+00:00 DEBUG > Row 7 - preparing for import.
+2020-03-26T06:37:30+00:00 DEBUG > > > Product type "tailgater mat" not allowed - using simple.
+2020-03-26T06:37:30+00:00 DEBUG > &#8220;Kent State University&#8221;Invalid or duplicated SKU. with post ID:
+2020-03-26T06:37:30+00:00 DEBUG > Row 8 - preparing for import.
+2020-03-26T06:37:30+00:00 DEBUG > > > Product type "ulti-mat" not allowed - using simple.
+2020-03-26T06:37:30+00:00 DEBUG > &#8220;Kent State University&#8221;Invalid or duplicated SKU. with post ID:
+2020-03-26T06:37:30+00:00 DEBUG > Row 9 - preparing for import.
+2020-03-26T06:37:30+00:00 DEBUG > > > Product type "starter mat" not allowed - using simple.
+2020-03-26T06:37:30+00:00 DEBUG > &#8220;Emporia State University&#8221;Invalid or duplicated SKU. with post ID:
+2020-03-26T06:37:30+00:00 DEBUG > Row 10 - preparing for import.
+2020-03-26T06:37:30+00:00 DEBUG > > > Product type "tailgater mat" not allowed - using simple.
+2020-03-26T06:37:30+00:00 DEBUG > &#8220;Emporia State University&#8221;Invalid or duplicated SKU. with post ID:
+2020-03-26T06:37:30+00:00 DEBUG Finished processing products.
+2020-03-26T06:37:31+00:00 DEBUG ---[ New Import ] PHP Memory: 512 MB, WP Memory: 40 MB
+2020-03-26T06:37:31+00:00 DEBUG Parsing products CSV.
+2020-03-26T06:37:31+00:00 DEBUG Finished parsing products CSV.
+2020-03-26T06:37:31+00:00 DEBUG ---
+2020-03-26T06:37:31+00:00 DEBUG Processing products.
+2020-03-26T06:37:31+00:00 DEBUG > Row 1 - preparing for import.
+2020-03-26T06:37:31+00:00 DEBUG > > > Product type "ulti-mat" not allowed - using simple.
+2020-03-26T06:37:31+00:00 DEBUG > &#8220;Emporia State University&#8221;Invalid or duplicated SKU. with post ID:
+2020-03-26T06:37:31+00:00 DEBUG > Row 2 - preparing for import.
+2020-03-26T06:37:31+00:00 DEBUG > > > Product type "football mat" not allowed - using simple.
+2020-03-26T06:37:31+00:00 DEBUG > &#8220;Florida Atlantic University&#8221;Invalid or duplicated SKU. with post ID:
+2020-03-26T06:37:31+00:00 DEBUG > Row 3 - preparing for import.
+2020-03-26T06:37:31+00:00 DEBUG > > > Product type "basketball mat" not allowed - using simple.
+2020-03-26T06:37:31+00:00 DEBUG > &#8220;Florida Atlantic University&#8221;Invalid or duplicated SKU. with post ID:
+2020-03-26T06:37:31+00:00 DEBUG > Row 4 - preparing for import.
+2020-03-26T06:37:31+00:00 DEBUG > > > Product type "baseball mat" not allowed - using simple.
+2020-03-26T06:37:31+00:00 DEBUG > &#8220;Florida Atlantic University&#8221;Invalid or duplicated SKU. with post ID:
+2020-03-26T06:37:31+00:00 DEBUG > Row 5 - preparing for import.
+2020-03-26T06:37:31+00:00 DEBUG > > > Product type "soccer ball mat" not allowed - using simple.
+2020-03-26T06:37:31+00:00 DEBUG > &#8220;Florida Atlantic University&#8221;Invalid or duplicated SKU. with post ID:
+2020-03-26T06:37:31+00:00 DEBUG > Row 6 - preparing for import.
+2020-03-26T06:37:31+00:00 DEBUG > > > Product type "all-star mat" not allowed - using simple.
+2020-03-26T06:37:31+00:00 DEBUG > &#8220;Florida Atlantic University&#8221;Invalid or duplicated SKU. with post ID:
+2020-03-26T06:37:31+00:00 DEBUG > Row 7 - preparing for import.
+2020-03-26T06:37:31+00:00 DEBUG > > > Product type "starter mat" not allowed - using simple.
+2020-03-26T06:37:31+00:00 DEBUG > &#8220;Florida Atlantic University&#8221;Invalid or duplicated SKU. with post ID:
+2020-03-26T06:37:31+00:00 DEBUG > Row 8 - preparing for import.
+2020-03-26T06:37:31+00:00 DEBUG > > > Product type "tailgater mat" not allowed - using simple.
+2020-03-26T06:37:31+00:00 DEBUG > &#8220;Florida Atlantic University&#8221;Invalid or duplicated SKU. with post ID:
+2020-03-26T06:37:31+00:00 DEBUG > Row 9 - preparing for import.
+2020-03-26T06:37:31+00:00 DEBUG > > > Product type "ulti-mat" not allowed - using simple.
+2020-03-26T06:37:31+00:00 DEBUG > &#8220;Florida Atlantic University&#8221;Invalid or duplicated SKU. with post ID:
+2020-03-26T06:37:31+00:00 DEBUG > Row 10 - preparing for import.
+2020-03-26T06:37:31+00:00 DEBUG > > > Product type "football mat" not allowed - using simple.
+2020-03-26T06:37:31+00:00 DEBUG > &#8220;Illinois State University&#8221;Invalid or duplicated SKU. with post ID:
+2020-03-26T06:37:31+00:00 DEBUG Finished processing products.
+2020-03-26T06:37:31+00:00 DEBUG ---[ New Import ] PHP Memory: 512 MB, WP Memory: 40 MB
+2020-03-26T06:37:31+00:00 DEBUG Parsing products CSV.
+2020-03-26T06:37:31+00:00 DEBUG Finished parsing products CSV.
+2020-03-26T06:37:31+00:00 DEBUG ---
+2020-03-26T06:37:31+00:00 DEBUG Processing products.
+2020-03-26T06:37:31+00:00 DEBUG > Row 1 - preparing for import.
+2020-03-26T06:37:31+00:00 DEBUG > > > Product type "basketball mat" not allowed - using simple.
+2020-03-26T06:37:31+00:00 DEBUG > &#8220;Illinois State University&#8221;Invalid or duplicated SKU. with post ID:
+2020-03-26T06:37:31+00:00 DEBUG > Row 2 - preparing for import.
+2020-03-26T06:37:31+00:00 DEBUG > > > Product type "baseball mat" not allowed - using simple.
+2020-03-26T06:37:31+00:00 DEBUG > &#8220;Illinois State University&#8221;Invalid or duplicated SKU. with post ID:
+2020-03-26T06:37:31+00:00 DEBUG > Row 3 - preparing for import.
+2020-03-26T06:37:31+00:00 DEBUG > > > Product type "soccer ball mat" not allowed - using simple.
+2020-03-26T06:37:31+00:00 DEBUG > &#8220;Illinois State University&#8221;Invalid or duplicated SKU. with post ID:
+2020-03-26T06:37:31+00:00 DEBUG > Row 4 - preparing for import.
+2020-03-26T06:37:31+00:00 DEBUG > > > Product type "all-star mat" not allowed - using simple.
+2020-03-26T06:37:31+00:00 DEBUG > &#8220;Illinois State University&#8221;Invalid or duplicated SKU. with post ID:
+2020-03-26T06:37:31+00:00 DEBUG > Row 5 - preparing for import.
+2020-03-26T06:37:31+00:00 DEBUG > > > Product type "starter mat" not allowed - using simple.
+2020-03-26T06:37:31+00:00 DEBUG > &#8220;Illinois State University&#8221;Invalid or duplicated SKU. with post ID:
+2020-03-26T06:37:31+00:00 DEBUG > Row 6 - preparing for import.
+2020-03-26T06:37:31+00:00 DEBUG > > > Product type "tailgater mat" not allowed - using simple.
+2020-03-26T06:37:31+00:00 DEBUG > &#8220;Illinois State University&#8221;Invalid or duplicated SKU. with post ID:
+2020-03-26T06:37:31+00:00 DEBUG > Row 7 - preparing for import.
+2020-03-26T06:37:31+00:00 DEBUG > > > Product type "ulti-mat" not allowed - using simple.
+2020-03-26T06:37:31+00:00 DEBUG > &#8220;Illinois State University&#8221;Invalid or duplicated SKU. with post ID:
+2020-03-26T06:37:31+00:00 DEBUG > Row 8 - preparing for import.
+2020-03-26T06:37:31+00:00 DEBUG > > > Product type "football mat" not allowed - using simple.
+2020-03-26T06:37:31+00:00 DEBUG > &#8220;Iowa State University&#8221;Invalid or duplicated SKU. with post ID:
+2020-03-26T06:37:31+00:00 DEBUG > Row 9 - preparing for import.
+2020-03-26T06:37:31+00:00 DEBUG > > > Product type "football mat" not allowed - using simple.
+2020-03-26T06:37:31+00:00 DEBUG > &#8220;Loyola University Chicago&#8221;Invalid or duplicated SKU. with post ID:
+2020-03-26T06:37:31+00:00 DEBUG > Row 10 - preparing for import.
+2020-03-26T06:37:31+00:00 DEBUG > > > Product type "basketball mat" not allowed - using simple.
+2020-03-26T06:37:31+00:00 DEBUG > &#8220;Loyola University Chicago&#8221;Invalid or duplicated SKU. with post ID:
+2020-03-26T06:37:31+00:00 DEBUG Finished processing products.
+2020-03-26T06:50:09+00:00 DEBUG ---[ New Import ] PHP Memory: 512 MB, WP Memory: 40 MB
+2020-03-26T06:50:09+00:00 DEBUG Parsing products CSV.
+2020-03-26T06:50:09+00:00 DEBUG Finished parsing products CSV.
+2020-03-26T06:50:09+00:00 DEBUG ---
+2020-03-26T06:50:09+00:00 DEBUG Processing products.
+2020-03-26T06:50:09+00:00 DEBUG > Row 1 - preparing for import.
+2020-03-26T06:50:09+00:00 DEBUG > > > Product type "football mat" not allowed - using simple.
+2020-03-26T06:50:09+00:00 DEBUG > &#8220;Alabama State University&#8221;Product with same ID already exists.
+2020-03-26T06:50:09+00:00 DEBUG > Row 2 - preparing for import.
+2020-03-26T06:50:09+00:00 DEBUG > > > Product type "all-star mat" not allowed - using simple.
+2020-03-26T06:50:09+00:00 DEBUG > &#8220;6&#8221; ID already exists.
+2020-03-26T06:50:09+00:00 DEBUG > Row 3 - preparing for import.
+2020-03-26T06:50:09+00:00 DEBUG > > > Product type "basketball mat" not allowed - using simple.
+2020-03-26T06:50:09+00:00 DEBUG > &#8220;7&#8221; ID already exists.
+2020-03-26T06:50:09+00:00 DEBUG > Row 4 - preparing for import.
+2020-03-26T06:50:09+00:00 DEBUG > > > Product type "baseball mat" not allowed - using simple.
+2020-03-26T06:50:09+00:00 DEBUG > &#8220;8&#8221; ID already exists.
+2020-03-26T06:50:09+00:00 DEBUG > Row 5 - preparing for import.
+2020-03-26T06:50:09+00:00 DEBUG > > > Product type "soccer ball mat" not allowed - using simple.
+2020-03-26T06:50:09+00:00 DEBUG > &#8220;9&#8221; ID already exists.
+2020-03-26T06:50:09+00:00 DEBUG > Row 6 - preparing for import.
+2020-03-26T06:50:09+00:00 DEBUG > > > Product type "all-star mat" not allowed - using simple.
+2020-03-26T06:50:09+00:00 DEBUG > &#8220;10&#8221; ID already exists.
+2020-03-26T06:50:09+00:00 DEBUG > Row 7 - preparing for import.
+2020-03-26T06:50:09+00:00 DEBUG > > > Product type "starter mat" not allowed - using simple.
+2020-03-26T06:50:09+00:00 DEBUG > &#8220;11&#8221; ID already exists.
+2020-03-26T06:50:09+00:00 DEBUG > Row 8 - preparing for import.
+2020-03-26T06:50:09+00:00 DEBUG > > > Product type "tailgater mat" not allowed - using simple.
+2020-03-26T06:50:09+00:00 DEBUG > &#8220;13&#8221; ID already exists.
+2020-03-26T06:50:09+00:00 DEBUG > Row 9 - preparing for import.
+2020-03-26T06:50:09+00:00 DEBUG > > > Product type "ulti-mat" not allowed - using simple.
+2020-03-26T06:50:09+00:00 DEBUG > Inserting Iowa State University
+2020-03-26T06:50:09+00:00 DEBUG Failed to import product &#8220;Iowa State University&#8221;
+2020-03-26T06:50:09+00:00 DEBUG Finished processing products.
+2020-03-26T06:50:10+00:00 DEBUG ---[ New Import ] PHP Memory: 512 MB, WP Memory: 40 MB
+2020-03-26T06:50:10+00:00 DEBUG Parsing products CSV.
+2020-03-26T06:50:10+00:00 DEBUG Finished parsing products CSV.
+2020-03-26T06:50:10+00:00 DEBUG ---
+2020-03-26T06:50:10+00:00 DEBUG Processing products.
+2020-03-26T06:50:10+00:00 DEBUG > Row 1 - preparing for import.
+2020-03-26T06:50:10+00:00 DEBUG > > > Product type "football mat" not allowed - using simple.
+2020-03-26T06:50:10+00:00 DEBUG > &#8220;24&#8221; ID already exists.
+2020-03-26T06:50:10+00:00 DEBUG > Row 2 - preparing for import.
+2020-03-26T06:50:10+00:00 DEBUG > > > Product type "basketball mat" not allowed - using simple.
+2020-03-26T06:50:10+00:00 DEBUG > &#8220;Kent State University&#8221;Product with same ID already exists.
+2020-03-26T06:50:10+00:00 DEBUG > Row 3 - preparing for import.
+2020-03-26T06:50:10+00:00 DEBUG > > > Product type "baseball mat" not allowed - using simple.
+2020-03-26T06:50:10+00:00 DEBUG > &#8220;Kent State University&#8221;Product with same ID already exists.
+2020-03-26T06:50:10+00:00 DEBUG > Row 4 - preparing for import.
+2020-03-26T06:50:10+00:00 DEBUG > > > Product type "soccer ball mat" not allowed - using simple.
+2020-03-26T06:50:10+00:00 DEBUG > &#8220;Kent State University&#8221;Product with same ID already exists.
+2020-03-26T06:50:10+00:00 DEBUG > Row 5 - preparing for import.
+2020-03-26T06:50:10+00:00 DEBUG > > > Product type "all-star mat" not allowed - using simple.
+2020-03-26T06:50:10+00:00 DEBUG > &#8220;28&#8221; ID already exists.
+2020-03-26T06:50:10+00:00 DEBUG > Row 6 - preparing for import.
+2020-03-26T06:50:10+00:00 DEBUG > > > Product type "starter mat" not allowed - using simple.
+2020-03-26T06:50:10+00:00 DEBUG > &#8220;29&#8221; ID already exists.
+2020-03-26T06:50:10+00:00 DEBUG > Row 7 - preparing for import.
+2020-03-26T06:50:10+00:00 DEBUG > > > Product type "tailgater mat" not allowed - using simple.
+2020-03-26T06:50:10+00:00 DEBUG > &#8220;31&#8221; ID already exists.
+2020-03-26T06:50:10+00:00 DEBUG > Row 8 - preparing for import.
+2020-03-26T06:50:10+00:00 DEBUG > > > Product type "ulti-mat" not allowed - using simple.
+2020-03-26T06:50:10+00:00 DEBUG > &#8220;32&#8221; ID already exists.
+2020-03-26T06:50:10+00:00 DEBUG > Row 9 - preparing for import.
+2020-03-26T06:50:10+00:00 DEBUG > > > Product type "starter mat" not allowed - using simple.
+2020-03-26T06:50:10+00:00 DEBUG > &#8220;33&#8221; ID already exists.
+2020-03-26T06:50:10+00:00 DEBUG > Row 10 - preparing for import.
+2020-03-26T06:50:10+00:00 DEBUG > > > Product type "tailgater mat" not allowed - using simple.
+2020-03-26T06:50:10+00:00 DEBUG > Inserting Emporia State University
+2020-03-26T06:50:10+00:00 DEBUG Failed to import product &#8220;Emporia State University&#8221;
+2020-03-26T06:50:10+00:00 DEBUG Finished processing products.
+2020-03-26T06:50:11+00:00 DEBUG ---[ New Import ] PHP Memory: 512 MB, WP Memory: 40 MB
+2020-03-26T06:50:11+00:00 DEBUG Parsing products CSV.
+2020-03-26T06:50:11+00:00 DEBUG Finished parsing products CSV.
+2020-03-26T06:50:11+00:00 DEBUG ---
+2020-03-26T06:50:11+00:00 DEBUG Processing products.
+2020-03-26T06:50:11+00:00 DEBUG > Row 1 - preparing for import.
+2020-03-26T06:50:11+00:00 DEBUG > > > Product type "ulti-mat" not allowed - using simple.
+2020-03-26T06:50:11+00:00 DEBUG > &#8220;36&#8221; ID already exists.
+2020-03-26T06:50:11+00:00 DEBUG > Row 2 - preparing for import.
+2020-03-26T06:50:11+00:00 DEBUG > > > Product type "football mat" not allowed - using simple.
+2020-03-26T06:50:11+00:00 DEBUG > Inserting Florida Atlantic University
+2020-03-26T06:50:12+00:00 DEBUG > Inserted - post ID is 46.
+2020-03-26T06:50:12+00:00 DEBUG > > Importing image "http://images.fanmats.com/support/TapedEdges.jpg"
+2020-03-26T06:50:15+00:00 DEBUG > > Inserted image attachment "http://images.fanmats.com/support/TapedEdges.jpg"
+2020-03-26T06:50:15+00:00 DEBUG > > Imported image "http://images.fanmats.com/support/TapedEdges.jpg"
+2020-03-26T06:50:15+00:00 DEBUG > > Images set
+2020-03-26T06:50:15+00:00 DEBUG > Finished importing post ID 46.
+2020-03-26T06:50:15+00:00 DEBUG > Row 3 - preparing for import.
+2020-03-26T06:50:15+00:00 DEBUG > > > Product type "basketball mat" not allowed - using simple.
+2020-03-26T06:50:15+00:00 DEBUG > Inserting Florida Atlantic University
+2020-03-26T06:50:15+00:00 DEBUG > Inserted - post ID is 47.
+2020-03-26T06:50:16+00:00 DEBUG > > Importing image "http://images.fanmats.com/support/TapedEdges.jpg"
+2020-03-26T06:50:19+00:00 DEBUG > > Inserted image attachment "http://images.fanmats.com/support/TapedEdges.jpg"
+2020-03-26T06:50:19+00:00 DEBUG > > Imported image "http://images.fanmats.com/support/TapedEdges.jpg"
+2020-03-26T06:50:19+00:00 DEBUG > > Images set
+2020-03-26T06:50:19+00:00 DEBUG > Finished importing post ID 47.
+2020-03-26T06:50:19+00:00 DEBUG > Row 4 - preparing for import.
+2020-03-26T06:50:19+00:00 DEBUG > > > Product type "baseball mat" not allowed - using simple.
+2020-03-26T06:50:19+00:00 DEBUG > Inserting Florida Atlantic University
+2020-03-26T06:50:20+00:00 DEBUG > Inserted - post ID is 48.
+2020-03-26T06:50:20+00:00 DEBUG > > Importing image "http://images.fanmats.com/support/TapedEdges.jpg"
+2020-03-26T06:50:23+00:00 DEBUG > > Inserted image attachment "http://images.fanmats.com/support/TapedEdges.jpg"
+2020-03-26T06:50:23+00:00 DEBUG > > Imported image "http://images.fanmats.com/support/TapedEdges.jpg"
+2020-03-26T06:50:23+00:00 DEBUG > > Images set
+2020-03-26T06:50:23+00:00 DEBUG > Finished importing post ID 48.
+2020-03-26T06:50:23+00:00 DEBUG > Row 5 - preparing for import.
+2020-03-26T06:50:23+00:00 DEBUG > > > Product type "soccer ball mat" not allowed - using simple.
+2020-03-26T06:50:23+00:00 DEBUG > Inserting Florida Atlantic University
+2020-03-26T06:50:23+00:00 DEBUG > Inserted - post ID is 49.
+2020-03-26T06:50:24+00:00 DEBUG > > Importing image "http://images.fanmats.com/support/TapedEdges.jpg"
+2020-03-26T06:50:30+00:00 DEBUG > > Inserted image attachment "http://images.fanmats.com/support/TapedEdges.jpg"
+2020-03-26T06:50:30+00:00 DEBUG > > Imported image "http://images.fanmats.com/support/TapedEdges.jpg"
+2020-03-26T06:50:30+00:00 DEBUG > > Images set
+2020-03-26T06:50:30+00:00 DEBUG > Finished importing post ID 49.
+2020-03-26T06:50:30+00:00 DEBUG > Row 6 - preparing for import.
+2020-03-26T06:50:30+00:00 DEBUG > > > Product type "all-star mat" not allowed - using simple.
+2020-03-26T06:50:30+00:00 DEBUG > Inserting Florida Atlantic University
+2020-03-26T06:50:30+00:00 DEBUG Failed to import product &#8220;Florida Atlantic University&#8221;
+2020-03-26T06:50:30+00:00 DEBUG > Row 7 - preparing for import.
+2020-03-26T06:50:30+00:00 DEBUG > > > Product type "starter mat" not allowed - using simple.
+2020-03-26T06:50:30+00:00 DEBUG > Inserting Florida Atlantic University
+2020-03-26T06:50:30+00:00 DEBUG > Inserted - post ID is 51.
+2020-03-26T06:50:31+00:00 DEBUG > > Importing image "http://images.fanmats.com/support/SergedEdges.jpg"
+2020-03-26T06:50:38+00:00 DEBUG > > Inserted image attachment "http://images.fanmats.com/support/SergedEdges.jpg"
+2020-03-26T06:50:38+00:00 DEBUG > > Imported image "http://images.fanmats.com/support/SergedEdges.jpg"
+2020-03-26T06:50:38+00:00 DEBUG > > Images set
+2020-03-26T06:50:38+00:00 DEBUG > Finished importing post ID 51.
+2020-03-26T06:50:38+00:00 DEBUG > Row 8 - preparing for import.
+2020-03-26T06:50:38+00:00 DEBUG > > > Product type "tailgater mat" not allowed - using simple.
+2020-03-26T06:50:38+00:00 DEBUG > Inserting Florida Atlantic University
+2020-03-26T06:50:38+00:00 DEBUG Failed to import product &#8220;Florida Atlantic University&#8221;
+2020-03-26T06:50:38+00:00 DEBUG > Row 9 - preparing for import.
+2020-03-26T06:50:38+00:00 DEBUG > > > Product type "ulti-mat" not allowed - using simple.
+2020-03-26T06:50:38+00:00 DEBUG > Inserting Florida Atlantic University
+2020-03-26T06:50:38+00:00 DEBUG Failed to import product &#8220;Florida Atlantic University&#8221;
+2020-03-26T06:50:38+00:00 DEBUG > Row 10 - preparing for import.
+2020-03-26T06:50:38+00:00 DEBUG > > > Product type "football mat" not allowed - using simple.
+2020-03-26T06:50:38+00:00 DEBUG > Inserting Illinois State University
+2020-03-26T06:50:39+00:00 DEBUG > Inserted - post ID is 55.
+2020-03-26T06:50:39+00:00 DEBUG > > Importing image "http://images.fanmats.com/support/TapedEdges.jpg"
+2020-03-26T06:50:42+00:00 DEBUG > > Inserted image attachment "http://images.fanmats.com/support/TapedEdges.jpg"
+2020-03-26T06:50:42+00:00 DEBUG > > Imported image "http://images.fanmats.com/support/TapedEdges.jpg"
+2020-03-26T06:50:42+00:00 DEBUG > > Images set
+2020-03-26T06:50:42+00:00 DEBUG > Finished importing post ID 55.
+2020-03-26T06:50:42+00:00 DEBUG Finished processing products.
+2020-03-26T06:50:43+00:00 DEBUG ---[ New Import ] PHP Memory: 512 MB, WP Memory: 40 MB
+2020-03-26T06:50:43+00:00 DEBUG Parsing products CSV.
+2020-03-26T06:50:43+00:00 DEBUG Finished parsing products CSV.
+2020-03-26T06:50:43+00:00 DEBUG ---
+2020-03-26T06:50:43+00:00 DEBUG Processing products.
+2020-03-26T06:50:43+00:00 DEBUG > Row 1 - preparing for import.
+2020-03-26T06:50:43+00:00 DEBUG > > > Product type "basketball mat" not allowed - using simple.
+2020-03-26T06:50:43+00:00 DEBUG > Inserting Illinois State University
+2020-03-26T06:50:44+00:00 DEBUG > Inserted - post ID is 56.
+2020-03-26T06:50:44+00:00 DEBUG > > Importing image "http://images.fanmats.com/support/TapedEdges.jpg"
+2020-03-26T06:50:47+00:00 DEBUG > > Inserted image attachment "http://images.fanmats.com/support/TapedEdges.jpg"
+2020-03-26T06:50:47+00:00 DEBUG > > Imported image "http://images.fanmats.com/support/TapedEdges.jpg"
+2020-03-26T06:50:47+00:00 DEBUG > > Images set
+2020-03-26T06:50:47+00:00 DEBUG > Finished importing post ID 56.
+2020-03-26T06:50:47+00:00 DEBUG > Row 2 - preparing for import.
+2020-03-26T06:50:47+00:00 DEBUG > > > Product type "baseball mat" not allowed - using simple.
+2020-03-26T06:50:47+00:00 DEBUG > Inserting Illinois State University
+2020-03-26T06:50:48+00:00 DEBUG > Inserted - post ID is 57.
+2020-03-26T06:50:48+00:00 DEBUG > > Importing image "http://images.fanmats.com/support/TapedEdges.jpg"
+2020-03-26T06:50:51+00:00 DEBUG > > Inserted image attachment "http://images.fanmats.com/support/TapedEdges.jpg"
+2020-03-26T06:50:51+00:00 DEBUG > > Imported image "http://images.fanmats.com/support/TapedEdges.jpg"
+2020-03-26T06:50:51+00:00 DEBUG > > Images set
+2020-03-26T06:50:51+00:00 DEBUG > Finished importing post ID 57.
+2020-03-26T06:50:51+00:00 DEBUG > Row 3 - preparing for import.
+2020-03-26T06:50:51+00:00 DEBUG > > > Product type "soccer ball mat" not allowed - using simple.
+2020-03-26T06:50:51+00:00 DEBUG > Inserting Illinois State University
+2020-03-26T06:50:52+00:00 DEBUG > Inserted - post ID is 58.
+2020-03-26T06:50:53+00:00 DEBUG > > Importing image "http://images.fanmats.com/support/TapedEdges.jpg"
+2020-03-26T06:50:56+00:00 DEBUG > > Inserted image attachment "http://images.fanmats.com/support/TapedEdges.jpg"
+2020-03-26T06:50:56+00:00 DEBUG > > Imported image "http://images.fanmats.com/support/TapedEdges.jpg"
+2020-03-26T06:50:56+00:00 DEBUG > > Images set
+2020-03-26T06:50:56+00:00 DEBUG > Finished importing post ID 58.
+2020-03-26T06:50:56+00:00 DEBUG > Row 4 - preparing for import.
+2020-03-26T06:50:56+00:00 DEBUG > > > Product type "all-star mat" not allowed - using simple.
+2020-03-26T06:50:56+00:00 DEBUG > Inserting Illinois State University
+2020-03-26T06:50:56+00:00 DEBUG Failed to import product &#8220;Illinois State University&#8221;
+2020-03-26T06:50:56+00:00 DEBUG > Row 5 - preparing for import.
+2020-03-26T06:50:56+00:00 DEBUG > > > Product type "starter mat" not allowed - using simple.
+2020-03-26T06:50:56+00:00 DEBUG > Inserting Illinois State University
+2020-03-26T06:50:57+00:00 DEBUG > Inserted - post ID is 60.
+2020-03-26T06:50:57+00:00 DEBUG > > Importing image "http://images.fanmats.com/support/SergedEdges.jpg"
+2020-03-26T06:51:01+00:00 DEBUG > > Inserted image attachment "http://images.fanmats.com/support/SergedEdges.jpg"
+2020-03-26T06:51:01+00:00 DEBUG > > Imported image "http://images.fanmats.com/support/SergedEdges.jpg"
+2020-03-26T06:51:01+00:00 DEBUG > > Images set
+2020-03-26T06:51:01+00:00 DEBUG > Finished importing post ID 60.
+2020-03-26T06:51:01+00:00 DEBUG > Row 6 - preparing for import.
+2020-03-26T06:51:01+00:00 DEBUG > > > Product type "tailgater mat" not allowed - using simple.
+2020-03-26T06:51:01+00:00 DEBUG > Inserting Illinois State University
+2020-03-26T06:51:01+00:00 DEBUG Failed to import product &#8220;Illinois State University&#8221;
+2020-03-26T06:51:01+00:00 DEBUG > Row 7 - preparing for import.
+2020-03-26T06:51:01+00:00 DEBUG > > > Product type "ulti-mat" not allowed - using simple.
+2020-03-26T06:51:01+00:00 DEBUG > Inserting Illinois State University
+2020-03-26T06:51:01+00:00 DEBUG Failed to import product &#8220;Illinois State University&#8221;
+2020-03-26T06:51:01+00:00 DEBUG > Row 8 - preparing for import.
+2020-03-26T06:51:01+00:00 DEBUG > > > Product type "football mat" not allowed - using simple.
+2020-03-26T06:51:01+00:00 DEBUG > Inserting Iowa State University
+2020-03-26T06:51:02+00:00 DEBUG > Inserted - post ID is 64.
+2020-03-26T06:51:02+00:00 DEBUG > > Importing image "http://images.fanmats.com/support/TapedEdges.jpg"
+2020-03-26T06:51:05+00:00 DEBUG > > Inserted image attachment "http://images.fanmats.com/support/TapedEdges.jpg"
+2020-03-26T06:51:05+00:00 DEBUG > > Imported image "http://images.fanmats.com/support/TapedEdges.jpg"
+2020-03-26T06:51:05+00:00 DEBUG > > Images set
+2020-03-26T06:51:05+00:00 DEBUG > Finished importing post ID 64.
+2020-03-26T06:51:05+00:00 DEBUG > Row 9 - preparing for import.
+2020-03-26T06:51:05+00:00 DEBUG > > > Product type "football mat" not allowed - using simple.
+2020-03-26T06:51:05+00:00 DEBUG > Inserting Loyola University Chicago
+2020-03-26T06:51:06+00:00 DEBUG > Inserted - post ID is 74.
+2020-03-26T06:51:06+00:00 DEBUG > > Importing image "http://images.fanmats.com/support/TapedEdges.jpg"
+2020-03-26T06:51:09+00:00 DEBUG > > Inserted image attachment "http://images.fanmats.com/support/TapedEdges.jpg"
+2020-03-26T06:51:09+00:00 DEBUG > > Imported image "http://images.fanmats.com/support/TapedEdges.jpg"
+2020-03-26T06:51:09+00:00 DEBUG > > Images set
+2020-03-26T06:51:09+00:00 DEBUG > Finished importing post ID 74.
+2020-03-26T06:51:09+00:00 DEBUG > Row 10 - preparing for import.
+2020-03-26T06:51:09+00:00 DEBUG > > > Product type "basketball mat" not allowed - using simple.
+2020-03-26T06:51:09+00:00 DEBUG > Inserting Loyola University Chicago
+2020-03-26T06:51:10+00:00 DEBUG > Inserted - post ID is 75.
+2020-03-26T06:51:10+00:00 DEBUG > > Importing image "http://images.fanmats.com/support/TapedEdges.jpg"
+2020-03-26T06:51:16+00:00 DEBUG > > Inserted image attachment "http://images.fanmats.com/support/TapedEdges.jpg"
+2020-03-26T06:51:16+00:00 DEBUG > > Imported image "http://images.fanmats.com/support/TapedEdges.jpg"
+2020-03-26T06:51:16+00:00 DEBUG > > Images set
+2020-03-26T06:51:16+00:00 DEBUG > Finished importing post ID 75.
+2020-03-26T06:51:16+00:00 DEBUG Finished processing products.
